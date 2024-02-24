@@ -9,18 +9,26 @@ I am very passionate about software, and I almost always have a personal/collabo
 <!-- (Here, you can talk about your current projects or what you're focusing on at the moment.) -->
 🔭 I’m currently working on ...
 </br>
+Eventurely, a [Flutter mobile app]([url](https://github.com/Broderick-Westrope/eventurely_flutter)) for personal event management. I am also creating a corresponding [Go API]([url](https://github.com/Broderick-Westrope/eventurely)) using [Connect RPC]([url](https://connectrpc.com/))! 
 
-🌱 I’m currently learning ...
 <!-- (Share what you're learning right now, whether it's a new programming language, a framework, or any other skill.) -->
+🌱 I’m currently learning Flutter, Riverpod, Connect RPC, and more whilst creating [Eventurely]([url](https://github.com/Broderick-Westrope/eventurely_flutter)).
 
-👯 I’m looking to collaborate on ...
 <!-- (Mention any type of projects or ideas you're interested in collaborating on.) -->
+👯 I’m looking to collaborate on anything and everything! A few of my favourite focus points are:
+- Projects focused on creating developer tools that improve productivity & code quality.
+- Contributions to open-source projects that are making a difference in the tech community, especially those related to DevOps tools.
+- Educational content creation, such as tutorials or blog posts, to share knowledge on C#, Go, cloud technologies, etc.
+Feel free to reach out with any ideas!
 
-🤔 I’m looking for help with ...
 <!-- (If there's something specific you're struggling with, this is a good place to ask for help.) -->
+🤔 I’m looking for help with best practices for managing state & project structure/architecture in large-scale Flutter applications to ensure performance and maintainability. Specifically utilising Riverpod & gRPC clients in a scaleable manner.
 
-💬 Ask me about ...
 <!-- (This can include your expert areas or anything else you're open to discussing.) -->
+💬 Ask me about something you think I can help with. Here are some ideas:
+- Transitioning from monolithic architectures to microservices (or the opposite): strategies, challenges, and lessons learned.
+- Tips for effective remote collaboration within development teams, especially in a distributed, global setup.
+- My experience with platform/DevOps and how I balance it with software engineering roles.
 
 ## 🛠 Skills
 As a consultant, I get exposure to a broad range of tools. Here are a few of my favourites so far:
