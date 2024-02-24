@@ -8,11 +8,11 @@ I am very passionate about software, and I almost always have a personal/collabo
 
 ### 🔭 I’m currently working on...
 <!-- (Here, you can talk about your current projects or what you're focusing on at the moment.) -->
-Eventurely, a [Flutter mobile app]([url](https://github.com/Broderick-Westrope/eventurely_flutter)) for personal event management. I am also creating a corresponding [Go API]([url](https://github.com/Broderick-Westrope/eventurely)) using [Connect RPC]([url](https://connectrpc.com/))! 
+[Eventurely](https://github.com/Broderick-Westrope/eventurely_flutter), a Flutter mobile app for personal event management. I am also creating a corresponding [Go API](https://github.com/Broderick-Westrope/eventurely) using [Connect RPC](https://connectrpc.com/)! 
 
 ### 🌱 I’m currently learning...
 <!-- (Share what you're learning right now, whether it's a new programming language, a framework, or any other skill.) -->
-Flutter, Riverpod, Connect RPC, and more whilst creating [Eventurely]([url](https://github.com/Broderick-Westrope/eventurely_flutter)).
+Flutter, Riverpod, Connect RPC, and more whilst creating [Eventurely](https://github.com/Broderick-Westrope/eventurely_flutter).
 
 ### 👯 I’m looking to collaborate on...
 <!-- (Mention any type of projects or ideas you're interested in collaborating on.) -->
@@ -38,7 +38,7 @@ As a consultant, I get exposure to a broad range of tools. Here are a few of my 
 - **Languages:** C#, Go, Dart
 - **Frameworks/Libraries:** ASP.NET Core, Vue 3, Flutter
 - **Tools & Technologies:** Azure, GitHub Actions, Bicep, Docker 
-- **Others:** TDD, RPC protocols (and IDLs)
+- **Others:** TDD, RPC protocols and IDLs (Interface Definition Languages)
 
 For a more comprehensive list of the tools I've worked with, see the badges at the bottom.
 
