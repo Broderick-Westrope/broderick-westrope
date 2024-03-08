@@ -1,5 +1,7 @@
 # Hi there, I'm Brodie 👋
 
+> There is only one corner of this universe you can be sure of improving, and that is your own self. *~Aldous Huxley*
+
 ## 🚀 About Me
 
 I'm a Software Engineer & Consultant at Mantel Group, where I specialise in crafting robust solutions using a wide range of technologies. With a penchant for both the intricacies of software development and the broad strokes of platform & infrastructure, I navigate the tech landscape with a cloud-first approach.
