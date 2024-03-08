@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer & Consultant at Mantel Group, where I specialise in crafting robust solutions using a wide range of technologies. With a penchant for both the intricacies of software development and the broad strokes of platform/devops, I navigate the tech landscape with a cloud-first approach.
+I'm a Software Engineer & Consultant at Mantel Group, where I specialise in crafting robust solutions using a wide range of technologies. With a penchant for both the intricacies of software development and the broad strokes of platform & infrastructure, I navigate the tech landscape with a cloud-first approach.
 
 I am very passionate about software, and I almost always have a personal/collaborative/open-source project that I'm working on. Outside of work, I also do a wide range of activities. Bouldering 🧗, reading 📚, Muay Thai 🥋, motorcyles 🏍️, hiking 🥾, and horticulture 🌵 are just a few of my hobbies! 
 
@@ -34,18 +34,13 @@ Something you think I can help with. Here are some ideas:
 - My experience with platform/DevOps and how I balance it with software engineering roles.
 
 ## 🛠 Skills
-As a consultant, I get exposure to a broad range of tools. Here are a few of my favourites so far:
-- **Languages:** C#, Go, Dart
-- **Frameworks/Libraries:** ASP.NET Core, Vue 3, Flutter
-- **Tools & Technologies:** Azure, GitHub Actions, Bicep, Docker 
-- **Others:** TDD, RPC protocols and IDLs (Interface Definition Languages)
+As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV]()
 
-For a more comprehensive list of the tools I've worked with, see the badges at the bottom.
+For a more comprehensive list of the tools I've worked with, see the badges at the bottom of this page.
 
 ## 📫 How to reach me
-- Email: [broderickwestrope@gmail.com](mailto:broderickwestrope@gmail.com)
 - LinkedIn: [broderick-westrope](https://www.linkedin.com/in/broderick-westrope/)
-- GitHub: [broderick-westrope](https://github.com/Broderick-Westrope)
+- Email: [broderickwestrope@gmail.com](mailto:broderickwestrope@gmail.com)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=broderick-westrope&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
