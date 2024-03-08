@@ -36,7 +36,7 @@ Something you think I can help with. Here are some ideas:
 - My experience with platform/DevOps and how I balance it with software engineering roles.
 
 ## 🛠 Skills
-As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV]()
+As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf)
 
 For a more comprehensive list of the tools I've worked with, see the badges at the bottom of this page.
 
