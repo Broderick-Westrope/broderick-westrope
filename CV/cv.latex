@@ -1,4 +1,4 @@
-\documentclass[letterpaper,11pt]{article}
+\documentclass[a4paper,11pt]{article}
 
 \usepackage{latexsym}
 \usepackage[empty]{fullpage}
@@ -164,9 +164,11 @@
 \section{Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
-          {\textbf{Client Project for an International Betting Company}}{Date Range}
+          {\textbf{Eventurley}}{Dec. 2023 - Present}
           \resumeItemListStart
-            \resumeItem{Worked with Go, gRPC, Vue 3, Open Policy Agent, and MySQL to integrate software and data from a newly acquired company into existing systems.}
+            \resumeItem{A full-stack cross-platform mobile application communication with RPCs, Protocol Buffers, and SSL.}
+            \resumeItem{Web API built with Go, sqlc, PostgreSQL, and a Connect RPC server.}
+            \resumeItem{Cross-platform mobile app built with Flutter (Dart), Riverpod, Firebase Auth, and a gRPC client.}
           \resumeItemListEnd
     \resumeSubHeadingListEnd
 
@@ -179,7 +181,7 @@
      \textbf{Cloud \& DevOps}{: Azure, AWS, Docker, GitHub Actions, Azure DevOps, Buildkite} \\
      \textbf{Software Development Practices}{: Software Architecture, CI/CD, Test-Driven Development, Cloud-Native Solutions} \\
      \textbf{Database Technologies}{: PostgreSQL, MySQL, Microsoft SQL Server} \\
-     \textbf{Other Tools}{:  VS Code, JetBrains IDEs, NeoVim, Git, Linux, Slack, Postman, JIRA}
+     \textbf{Other Tools}{:  VS Code, JetBrains IDEs, NeoVim, Git, Slack, Postman, JIRA}
     }}
  \end{itemize}
 
@@ -190,3 +192,4 @@
   \resumeSubHeadingListEnd
 
 \end{document}
+
