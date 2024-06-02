@@ -10,23 +10,23 @@ I am very passionate about software, and I almost always have a personal/collabo
 
 ### 🔭 I’m currently working on...
 <!-- (Here, you can talk about your current projects or what you're focusing on at the moment.) -->
-[Eventurely](https://github.com/Broderick-Westrope/eventurely_flutter), a Flutter mobile app for personal event management. I am also creating a corresponding [Go API](https://github.com/Broderick-Westrope/eventurely) using [Connect RPC](https://connectrpc.com/)! 
+Eventurely, a Nuxt web app for personal event management. In the background this is using a Dotnet API and Golang auth server (powered by Supertokens). I'm planning to host it all using Azure infrastructure, which will be built with the Pulumi.
 
 ### 🌱 I’m currently learning...
 <!-- (Share what you're learning right now, whether it's a new programming language, a framework, or any other skill.) -->
-Flutter, Riverpod, Connect RPC, and more whilst creating [Eventurely](https://github.com/Broderick-Westrope/eventurely_flutter).
+Nuxt, authn/authz, Pulumi, and more about Azure services.
 
 ### 👯 I’m looking to collaborate on...
 <!-- (Mention any type of projects or ideas you're interested in collaborating on.) -->
 Anything and everything! A few of my favourite focus points are:
 - Projects focused on creating developer tools that improve productivity & code quality.
-- Contributions to open-source projects that are making a difference in the tech community, especially those related to DevOps tools.
+- Contributions to open-source projects making a difference in the tech community, especially those related to DevOps tools.
 - Educational content creation, such as tutorials or blog posts, to share knowledge on C#, Go, cloud technologies, etc.
 Feel free to reach out with any ideas!
 
 ### 🤔 I’m looking for help with...
 <!-- (If there's something specific you're struggling with, this is a good place to ask for help.) -->
-Best practices for managing state & project structure/architecture in large-scale Flutter applications to ensure performance and maintainability. Specifically utilising Riverpod & gRPC clients in a scaleable manner.
+Finding a good auth provider for Nuxt & Dotnet that allows custom UIs in its free tier.
 
 ### 💬 Ask me about...
 <!-- (This can include your expert areas or anything else you're open to discussing.) -->
