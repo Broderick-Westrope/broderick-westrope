@@ -26,7 +26,12 @@ Feel free to reach out with any ideas!
 
 ### 🤔 I’m looking for help with...
 <!-- (If there's something specific you're struggling with, this is a good place to ask for help.) -->
-Finding a good auth provider for Nuxt & Dotnet that allows custom UIs in its free tier.
+Finding a good auth provider for Nuxt & Dotnet that allows custom UIs in its free tier. Currently, my project uses a separate Golang API for Supertokens auth, but this requires extra hosting and a reverse proxy. Here are other options currently on my radar and my reasons for not (yet) using them:
+- Auth0: Allows "custom branding" on one of their templates, but (to my understanding) does not allow creating your UI from scratch and adding auth using an SDK.
+- Kinde: Same reason as Auth0.
+- Lucia-Auth: Requires setting up a database to be used by the frontend server (ie. Nuxt). I would rather store the auth/session data in the same database as my backend server (ie. Dotnet) is using for all other data.
+
+If you think one of these is incorrect, please reach out! I'd love to hear that it's easier than I thought :)
 
 ### 💬 Ask me about...
 <!-- (This can include your expert areas or anything else you're open to discussing.) -->
