@@ -46,8 +46,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (today)
 - [willofdaedalus/yummychars](https://github.com/willofdaedalus/yummychars) (1 day ago)
-- [melbahja/goph](https://github.com/melbahja/goph) - 🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀 (1 day ago)
-- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (2 days ago)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (4 days ago)
+- [fatih/color](https://github.com/fatih/color) - Color package for Go (golang) (1 week ago)
 
 ## 💬 Feedback
 
