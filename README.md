@@ -35,11 +35,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
+- [fix(table): use table height](https://github.com/charmbracelet/lipgloss/pull/358) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 - [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
 - [refactor: move models; mode tui common code](https://github.com/Broderick-Westrope/tetrigo/pull/18) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
 - [docs: fix broken link in examples readme](https://github.com/charmbracelet/wish/pull/323) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
-- [ci: fix release env vars](https://github.com/Broderick-Westrope/tetrigo/pull/17) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 
 ## ⭐ Recent stars
 
