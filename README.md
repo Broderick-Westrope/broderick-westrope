@@ -15,9 +15,9 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 day ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (2 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (3 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 months ago)
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :) (5 months ago)
 
@@ -35,18 +35,18 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
-- [refactor: move models; mode tui common code](https://github.com/Broderick-Westrope/tetrigo/pull/18) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
-- [docs: fix broken link in examples readme](https://github.com/charmbracelet/wish/pull/323) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (3 days ago)
+- [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [refactor: move models; mode tui common code](https://github.com/Broderick-Westrope/tetrigo/pull/18) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
+- [docs: fix broken link in examples readme](https://github.com/charmbracelet/wish/pull/323) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (4 days ago)
 - [ci: fix release env vars](https://github.com/Broderick-Westrope/tetrigo/pull/17) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 
 ## ⭐ Recent stars
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (1 day ago)
-- [willofdaedalus/yummychars](https://github.com/willofdaedalus/yummychars) (2 days ago)
-- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (2 days ago)
+- [willofdaedalus/yummychars](https://github.com/willofdaedalus/yummychars) (3 days ago)
+- [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms (6 days ago)
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang) (1 week ago)
 
 ## 💬 Feedback
