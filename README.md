@@ -16,7 +16,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 days ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go (4 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 months ago)
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :) (5 months ago)
@@ -27,7 +27,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme
 - [Broderick-Westrope/blog](https://github.com/Broderick-Westrope/blog)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - A tetris TUI written in Go
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 
 ## 🚀 Latest releases I've contributed to
 
@@ -35,11 +35,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
+- [docs(readme): add tetrigo](https://github.com/charm-community/charm-in-the-wild/pull/17) on [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) (today)
 - [fix(table): use table height](https://github.com/charmbracelet/lipgloss/pull/358) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 - [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 - [refactor: move models; mode tui common code](https://github.com/Broderick-Westrope/tetrigo/pull/18) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
-- [docs: fix broken link in examples readme](https://github.com/charmbracelet/wish/pull/323) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (5 days ago)
 
 ## ⭐ Recent stars
 
