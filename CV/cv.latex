@@ -14,19 +14,6 @@
 \input{glyphtounicode}
 \usepackage{fontawesome}
 
-
-%----------FONT OPTIONS----------
-% sans-serif
-% \usepackage[sfdefault]{FiraSans}
-% \usepackage[sfdefault]{roboto}
-% \usepackage[sfdefault]{noto-sans}
-% \usepackage[default]{sourcesanspro}
-
-% serif
-% \usepackage{CormorantGaramond}
-% \usepackage{charter}
-
-
 \pagestyle{fancy}
 \fancyhf{} % clear all header and footer fields
 \fancyfoot{}
@@ -98,9 +85,7 @@
 \begin{center}
     \textbf{\Huge \scshape Broderick Westrope} \\ \vspace{3pt}
     \small
-    \faMobile \hspace{.5pt} \href{tel:61424645637}{+61 424 645 637}
-    $|$
-    \faAt \hspace{.5pt} \href{mailto:broderickwestrope@gmail.com}{broderickwestrope@gmail.com}
+    \href{mailto:broderickwestrope@gmail.com}{broderickwestrope@gmail.com}
     $|$
     \faLinkedinSquare \hspace{.5pt} \href{https://linkedin.com/in/broderick-westrope}{LinkedIn}
     $|$
@@ -137,7 +122,8 @@
       {Mantel Group}{Sydney, NSW}
       \resumeItemListStart
         \resumeItem{Spearheaded projects with ASP.NET (C\#) to architect, uplift, and migrate REST APIs.}
-        \resumeItem{Developed expertise in Go \& gRPC, actively contributing to the community through presenting at meetups and conferences, engaging in internal knowledge-sharing, and leading personal training sessions.}
+        \resumeItem{Implemented large-scale Go projects leveraging the Temporal durable-execution framework as well as gRPC and ConnectRPC.}
+        \resumeItem{Actively contributing to the Go community through presenting at meetups and conferences, engaging in internal knowledge-sharing, and leading personal training sessions.}
         \resumeItem{Contributed to CI/CD pipeline development, authoring of technical documentation, and motivating TDD.}
         \resumeItem{Key driver of an internal project leveraging Azure DevBox, Azure Bicep \& ARM templates, GitHub Actions, and Terraform for a cutting-edge Azure technology offering.}
       \resumeItemListEnd
@@ -154,15 +140,16 @@
     \resumeSubheading
       {Intern}{Jun. 2019}
       {Atlassian}{Sydney, NSW}
-      \resumeItemListStart
-        \resumeItem{Supported team productivity, compiled data, and produced reports.}
-      \resumeItemListEnd
-
   \resumeSubHeadingListEnd
 
 %-----------PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Tetrigo}}{Nov. 2023 - Present}
+          \resumeItemListStart
+        \resumeItem{An interactive TUI (Terminal User Interface) for playing Tetris in your terminal. Built using the awesome \href{https://github.com/charmbracelet/bubbletea}{\underline{Bubble Tea}} framework created by \href{https://charm.sh/}{\underline{Charm}}.}
+          \resumeItemListEnd
       \resumeProjectHeading
           {\textbf{Eventurley}}{Dec. 2023 - Present}
           \resumeItemListStart
@@ -170,26 +157,25 @@
             \resumeItem{Web API built with Go, sqlc, PostgreSQL, and a Connect RPC server.}
             \resumeItem{Cross-platform mobile app built with Flutter (Dart), Riverpod, Firebase Auth, and a gRPC client.}
           \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Open Source}}{Long Term; Ongoing}
+          \resumeItemListStart
+            \resumeItem{In addition to personal projects, I enjoy contributing to a range of projects in the open-source community.}
+            \resumeItem{My GitHub profile is up to date and provides insight into projects I'm currently interacting with. See the top for a link.}
+          \resumeItemListEnd
     \resumeSubHeadingListEnd
 
 %-----------SKILLS-----------
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Programming Languages}{: C\#, Go, Dart, TypeScript, HTML/CSS} \\
-     \textbf{Frameworks \& Libraries}{: ASP.NET Core, Flutter, gRPC, Vue 3, Blazor, Material-UI} \\
+     \textbf{Programming Languages}{: C\#, Go, TypeScript, HTML/CSS} \\
+     \textbf{Frameworks \& Libraries}{: ASP.NET Core, Temporal, Connect RPC, Vue 3, Blazor} \\
      \textbf{Cloud \& DevOps}{: Azure, AWS, Docker, GitHub Actions, Azure DevOps, Buildkite} \\
-     \textbf{Software Development Practices}{: Software Architecture, CI/CD, Test-Driven Development, Cloud-Native Solutions} \\
+     \textbf{Software Development Practices}{: Test-Driven \& Cloud-Native Development} \\
      \textbf{Database Technologies}{: PostgreSQL, MySQL, Microsoft SQL Server} \\
-     \textbf{Other Tools}{:  VS Code, JetBrains IDEs, NeoVim, Git, Slack, Postman, JIRA}
     }}
  \end{itemize}
-
-%-----------ACHIEVEMENTS-----------
-\section{Achievements}
-  \resumeSubHeadingListStart
-    \resumeItem{Presented at GopherConAU Conference and Sydney Golang Meetup.}
-  \resumeSubHeadingListEnd
 
 \end{document}
 
