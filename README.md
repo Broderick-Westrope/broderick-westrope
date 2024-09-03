@@ -16,7 +16,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 day ago)
-- [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (4 days ago)
+- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (4 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 months ago)
@@ -35,7 +35,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [docs(readme): add tetrigo](https://github.com/charm-community/charm-in-the-wild/pull/17) on [charm-community/charm-in-the-wild](https://github.com/charm-community/charm-in-the-wild) (4 days ago)
+- [docs(readme): add tetrigo](https://github.com/charm-and-friends/charm-in-the-wild/pull/17) on [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) (4 days ago)
 - [fix(table): use table height](https://github.com/charmbracelet/lipgloss/pull/358) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 - [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 - [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
