@@ -31,7 +31,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.2](https://github.com/charmbracelet/wish/releases/tag/v1.4.2), 2 weeks ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), today) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
 
