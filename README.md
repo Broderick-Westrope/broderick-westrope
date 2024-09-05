@@ -17,17 +17,17 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 days ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (6 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 months ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
+- [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :) (6 months ago)
 
 ## 🌱 My latest projects
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio)
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme
 - [Broderick-Westrope/blog](https://github.com/Broderick-Westrope/blog)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
+- [Broderick-Westrope/e-gommerce](https://github.com/Broderick-Westrope/e-gommerce) - An e-commerce backend made with Go.
 
 ## 🚀 Latest releases I've contributed to
 
