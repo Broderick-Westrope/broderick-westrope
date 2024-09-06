@@ -2,13 +2,7 @@
 
 > There is only one corner of this universe you can be sure of improving, and that is your own self. *~Aldous Huxley*
 
-## 🚀 About Me
-
-I'm passionate about FOSS, physical and mental wellbeing, and creating a sense of community in all environments. Outside of work I do a wide range of activities other than development. Bouldering 🧗, reading 📚, Muay Thai 🥋, motorcyles 🏍️, hiking 🥾, and horticulture 🌵 are just a few of my hobbies! 
-
-By day I work as a consultant at [Mantel Group](https://mantelgroup.com.au/), where I break down business problems and craft solutions using a wide range of technologies in a cloud-first approach.
-
-By night I'm an avid developer working on a range of open-source projects. Continue reading to get an idea of what I'm currently working on.
+The following is an up-to-date record of my GitHub activity. For more information about me please see [my portfolio](https://www.westrope.dev/).
 
 ## 🛠 Skills
 As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf)
@@ -16,7 +10,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 days ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (today)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
