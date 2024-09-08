@@ -9,7 +9,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 days ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 week ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 week ago)
@@ -29,11 +29,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
+- [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
 - [docs(readme): add tetrigo](https://github.com/charm-and-friends/charm-in-the-wild/pull/17) on [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) (1 week ago)
 - [fix(table): use table height](https://github.com/charmbracelet/lipgloss/pull/358) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [test(table): improve table unit tests](https://github.com/charmbracelet/bubbles/pull/601) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
-- [refactor: move models; mode tui common code](https://github.com/Broderick-Westrope/tetrigo/pull/18) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 
 ## ⭐ Recent stars
 
