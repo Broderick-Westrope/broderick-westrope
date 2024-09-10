@@ -9,7 +9,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 day ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 days ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
@@ -29,11 +29,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
+- [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
 - [fix: theme switching](https://github.com/Broderick-Westrope/astro-portfolio/pull/2) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 days ago)
 - [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 days ago)
 - [docs(readme): add tetrigo](https://github.com/charm-and-friends/charm-in-the-wild/pull/17) on [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) (1 week ago)
 - [fix(table): use table height](https://github.com/charmbracelet/lipgloss/pull/358) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [fix(table): correctly truncate escaped cells](https://github.com/charmbracelet/bubbles/pull/603) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 
 ## ⭐ Recent stars
 
