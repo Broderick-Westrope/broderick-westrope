@@ -12,16 +12,16 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 day ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 days ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 week ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 weeks ago)
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/eventurely-auth](https://github.com/Broderick-Westrope/eventurely-auth) - Auth server for Eventurely project.
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio)
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme
 - [Broderick-Westrope/blog](https://github.com/Broderick-Westrope/blog)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal.
 
 ## 🚀 Latest releases I've contributed to
 
