@@ -9,11 +9,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 days ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (2 weeks ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -30,7 +30,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 days ago)
+- [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
 - [fix: theme switching](https://github.com/Broderick-Westrope/astro-portfolio/pull/2) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
 - [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
 - [docs(readme): add tetrigo](https://github.com/charm-and-friends/charm-in-the-wild/pull/17) on [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) (2 weeks ago)
@@ -38,8 +38,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (today)
-- [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (4 days ago)
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 day ago)
+- [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (5 days ago)
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (2 weeks ago)
