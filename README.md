@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (today)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (2 days ago)
 - [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (6 days ago)
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (2 weeks ago)
 
 ## 💬 Feedback
 
