@@ -30,19 +30,19 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 - [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
-- [fix: theme switching](https://github.com/Broderick-Westrope/astro-portfolio/pull/2) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
-- [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
+- [fix: theme switching](https://github.com/Broderick-Westrope/astro-portfolio/pull/2) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
+- [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
 - [docs(readme): add tetrigo](https://github.com/charm-and-friends/charm-in-the-wild/pull/17) on [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) (3 weeks ago)
 
 ## ⭐ Recent stars
 
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 days ago)
-- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (6 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 days ago)
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 week ago)
 - [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (1 week ago)
-- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (1 week ago)
+- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (2 weeks ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (2 weeks ago)
 
 ## 💬 Feedback
 
