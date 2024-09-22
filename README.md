@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (today)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (5 days ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 week ago)
 - [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (1 week ago)
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (2 weeks ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps (2 weeks ago)
 
 ## 💬 Feedback
 
