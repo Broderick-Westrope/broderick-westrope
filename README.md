@@ -12,7 +12,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 weeks ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
-- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (3 weeks ago)
+- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (4 weeks ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
 
 ## 🌱 My latest projects
@@ -30,15 +30,15 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
+- [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
+- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
 - [fix: theme switching](https://github.com/Broderick-Westrope/astro-portfolio/pull/2) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
 - [refactor: move to Svelte](https://github.com/Broderick-Westrope/astro-portfolio/pull/1) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
 
 ## ⭐ Recent stars
 
-- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (4 days ago)
+- [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (5 days ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 week ago)
 - [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (2 weeks ago)
