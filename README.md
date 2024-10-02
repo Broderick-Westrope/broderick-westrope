@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features (today)
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (1 week ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (2 weeks ago)
 - [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (3 weeks ago)
-- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (3 weeks ago)
 
 ## 💬 Feedback
 
