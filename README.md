@@ -30,11 +30,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
+- [fix: formatting issue in .NET SDK docs](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (today)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 - [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 - [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
-- [fix: default to dark theme](https://github.com/Broderick-Westrope/astro-portfolio/pull/3) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
 
 ## ⭐ Recent stars
 
