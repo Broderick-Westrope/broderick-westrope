@@ -9,11 +9,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
+- [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (today)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 weeks ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
-- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (1 month ago)
 
 ## 🌱 My latest projects
 
@@ -30,7 +30,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix: formatting issue in .NET SDK docs](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (today)
+- [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (today)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 - [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 - [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
