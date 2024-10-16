@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (today)
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features (2 weeks ago)
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (3 weeks ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (4 weeks ago)
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (1 month ago)
-- [dapr/cli](https://github.com/dapr/cli) - Command-line tools for Dapr. (1 month ago)
 
 ## 💬 Feedback
 
