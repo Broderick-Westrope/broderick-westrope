@@ -9,8 +9,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 week ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
+- [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (2 weeks ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 month ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 month ago)
@@ -31,16 +31,16 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔨 Latest Pull Requests I published
 
 - [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (2 weeks ago)
-- [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
-- [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
+- [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
+- [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
 - [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
-- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
+- [feat: add picker component](https://github.com/charmbracelet/bubbles/pull/621) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 weeks ago)
 
 ## ⭐ Recent stars
 
-- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (1 day ago)
-- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (1 day ago)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (1 day ago)
+- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (2 days ago)
+- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (2 days ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 days ago)
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features (2 weeks ago)
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (3 weeks ago)
 
