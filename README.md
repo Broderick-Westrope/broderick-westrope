@@ -26,7 +26,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🚀 Latest releases I've contributed to
 
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 month ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 1 month ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 2 months ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
 
@@ -38,9 +38,9 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (2 days ago)
-- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (2 days ago)
-- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (2 days ago)
+- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (3 days ago)
+- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (3 days ago)
+- [danielgatis/imgcat](https://github.com/danielgatis/imgcat) - Display images and gifs in your terminal. (3 days ago)
 - [matschik/component-party.dev](https://github.com/matschik/component-party.dev) - 🎉 Web component JS frameworks overview by their syntax and features (2 weeks ago)
 - [nicknisi/dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, neovim - my whole world (3 weeks ago)
 
