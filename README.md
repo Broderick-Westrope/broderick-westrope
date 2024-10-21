@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (today)
-- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (1 day ago)
-- [gorilla/sessions](https://github.com/gorilla/sessions) - Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends. (1 day ago)
-- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (4 days ago)
-- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (4 days ago)
+- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (1 day ago)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (2 days ago)
+- [gorilla/sessions](https://github.com/gorilla/sessions) - Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends. (2 days ago)
+- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (5 days ago)
+- [bep/debounce](https://github.com/bep/debounce) - A debouncer written in Go. (5 days ago)
 
 ## 💬 Feedback
 
