@@ -25,8 +25,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 month ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 2 months ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
 
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (today)
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (today)
 - [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (2 days ago)
 - [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (3 days ago)
 - [gorilla/sessions](https://github.com/gorilla/sessions) - Package gorilla/sessions provides cookie and filesystem sessions and infrastructure for custom session backends. (3 days ago)
-- [crossle/libsignal-protocol-go](https://github.com/crossle/libsignal-protocol-go) - Go implementation of the Signal Library for WebAssembly (6 days ago)
 
 ## 💬 Feedback
 
