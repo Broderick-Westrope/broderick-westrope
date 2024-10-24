@@ -25,12 +25,12 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 month ago) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
 
-- [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (2 weeks ago)
+- [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (3 weeks ago)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
 - [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
 - [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 month ago)
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (today)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (1 day ago)
-- [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (1 day ago)
-- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (3 days ago)
-- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (4 days ago)
+- [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (1 day ago)
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (2 days ago)
+- [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (2 days ago)
+- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (4 days ago)
+- [gorilla/websocket](https://github.com/gorilla/websocket) - Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go. (5 days ago)
 
 ## 💬 Feedback
 
