@@ -25,7 +25,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.1), 4 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 1 month ago) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 day ago)
-- [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (2 days ago)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (3 days ago)
-- [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (3 days ago)
-- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (5 days ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (2 days ago)
+- [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (3 days ago)
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (4 days ago)
+- [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (4 days ago)
+- [alexedwards/argon2id](https://github.com/alexedwards/argon2id) - Argon2id password hashing and verification for Go (6 days ago)
 
 ## 💬 Feedback
 
