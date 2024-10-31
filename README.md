@@ -30,7 +30,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (3 weeks ago)
+- [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (4 weeks ago)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 - [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 - [fix(list): update list keybindings after altering display size](https://github.com/charmbracelet/bubbles/pull/623) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 month ago)
@@ -38,7 +38,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (6 days ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 week ago)
 - [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (1 week ago)
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (1 week ago)
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging (1 week ago)
