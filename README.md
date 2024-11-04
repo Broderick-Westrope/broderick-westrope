@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (today)
 - [stefanlogue/meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing conventional commits (1 day ago)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (1 day ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 week ago)
 - [go-gremlins/gremlins](https://github.com/go-gremlins/gremlins) - A mutation testing tool for Go. (1 week ago)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (1 week ago)
 
 ## 💬 Feedback
 
