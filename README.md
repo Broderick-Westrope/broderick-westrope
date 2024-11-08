@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (2 days ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (3 days ago)
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
-- [stefanlogue/meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing conventional commits (4 days ago)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 days ago)
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (3 days ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (4 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (4 days ago)
+- [stefanlogue/meteor](https://github.com/stefanlogue/meteor) - A highly configurable CLI tool for writing conventional commits (5 days ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (5 days ago)
 
 ## 💬 Feedback
 
