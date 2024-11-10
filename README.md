@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (today)
-- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification. (today)
-- [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services (today)
-- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (4 days ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (5 days ago)
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (1 day ago)
+- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification. (1 day ago)
+- [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services (1 day ago)
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (5 days ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (6 days ago)
 
 ## 💬 Feedback
 
