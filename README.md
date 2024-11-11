@@ -12,7 +12,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 month ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 month ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
 
 ## 🌱 My latest projects
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (1 day ago)
-- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification. (1 day ago)
-- [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services (1 day ago)
-- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (5 days ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (6 days ago)
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (2 days ago)
+- [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification. (2 days ago)
+- [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services (2 days ago)
+- [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (6 days ago)
+- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 week ago)
 
 ## 💬 Feedback
 
