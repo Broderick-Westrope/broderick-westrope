@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (today)
 - [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (3 days ago)
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 Go Captcha is a behavior security CAPTCHA, which implements text click verification, slide verification and rotation verification. (3 days ago)
 - [go-chi/render](https://github.com/go-chi/render) - easily manage HTTP request / response payloads of Go HTTP services (3 days ago)
 - [signalapp/libsignal](https://github.com/signalapp/libsignal) - Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible. (1 week ago)
-- [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client (1 week ago)
 
 ## 💬 Feedback
 
