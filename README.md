@@ -25,7 +25,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 2 months ago) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (today)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (1 day ago)
-- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (1 day ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
-- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (4 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 days ago)
+- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (2 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
+- [go-jet/jet](https://github.com/go-jet/jet) - Type safe SQL builder with code generation and automatic query result data mapping (5 days ago)
 
 ## 💬 Feedback
 
