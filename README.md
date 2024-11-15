@@ -10,18 +10,18 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (today)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (today)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 day ago)
 - [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem.
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible.
 - [Broderick-Westrope/eventurely-auth](https://github.com/Broderick-Westrope/eventurely-auth) - Auth server for Eventurely project.
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio)
 - [Broderick-Westrope/nvim](https://github.com/Broderick-Westrope/nvim) - NeoVim setup using LazyVim :)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme
 
 ## 🚀 Latest releases I've contributed to
 
