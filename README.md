@@ -9,9 +9,9 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (today)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (today)
+- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 day ago)
 - [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 month ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
 
@@ -25,12 +25,12 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 3 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 2 months ago) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: refactor project](https://github.com/Broderick-Westrope/tetrigo/pull/22) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
+- [feat: refactor project](https://github.com/Broderick-Westrope/tetrigo/pull/22) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 day ago)
 - [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (1 month ago)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 - [docs(readme): update todo list](https://github.com/Broderick-Westrope/tetrigo/pull/19) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
-- [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (today)
-- [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (2 days ago)
-- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (2 days ago)
+- [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (1 day ago)
+- [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (3 days ago)
+- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (3 days ago)
 
 ## 💬 Feedback
 
