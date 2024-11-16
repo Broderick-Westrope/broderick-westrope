@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (today)
 - [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (2 days ago)
 - [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (2 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
 - [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (4 days ago)
-- [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go (4 days ago)
 
 ## 💬 Feedback
 
