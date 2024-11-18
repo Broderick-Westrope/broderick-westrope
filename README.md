@@ -9,9 +9,9 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 days ago)
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (2 days ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 days ago)
+- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (3 days ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 days ago)
 - [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
 
@@ -25,24 +25,24 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 5 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.3](https://github.com/charmbracelet/wish/releases/tag/v1.4.3), 2 months ago) - Make SSH apps, just like that! 💫
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
-- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
-- [feat: refactor project](https://github.com/Broderick-Westrope/tetrigo/pull/22) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
+- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
+- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
+- [feat: refactor project](https://github.com/Broderick-Westrope/tetrigo/pull/22) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
 - [EDU-3253: fix: formatting issue in .NET SDK docs [External contribution]](https://github.com/temporalio/documentation/pull/3124) on [temporalio/documentation](https://github.com/temporalio/documentation) (1 month ago)
 - [test: add remaining SRS unit test cases](https://github.com/Broderick-Westrope/tetrigo/pull/20) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 
 ## ⭐ Recent stars
 
-- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (1 day ago)
-- [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (3 days ago)
-- [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (3 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
-- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (5 days ago)
+- [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (2 days ago)
+- [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (4 days ago)
+- [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (4 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [dgraph-io/badger](https://github.com/dgraph-io/badger) - Fast key-value DB in Go. (6 days ago)
 
 ## 💬 Feedback
 
