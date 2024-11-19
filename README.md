@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
 - [basicswap/basicswap](https://github.com/basicswap/basicswap) - Basic Atomic Swap Proof of Concept (1 day ago)
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (3 days ago)
 - [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (5 days ago)
 - [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (5 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (6 days ago)
 
 ## 💬 Feedback
 
