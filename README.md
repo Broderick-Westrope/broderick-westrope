@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [nakshatraraghav/cypherstorm](https://github.com/nakshatraraghav/cypherstorm) - CypherStorm is a cryptographic suite of tools for compressing, encrypting, and hashing files or folders with customizable algorithms, providing flexible, high-security file management. (today)
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 day ago)
 - [basicswap/basicswap](https://github.com/basicswap/basicswap) - Basic Atomic Swap Proof of Concept (2 days ago)
 - [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models (4 days ago)
 - [jesusprubio/up](https://github.com/jesusprubio/up) - 📶 Troubleshoot problems with your Internet connection (6 days ago)
-- [NickNaskida/Watchdog](https://github.com/NickNaskida/Watchdog) - A simple Kafka-powered alert system for real-time event alerts written in Go and Typescript. (6 days ago)
 
 ## 💬 Feedback
 
