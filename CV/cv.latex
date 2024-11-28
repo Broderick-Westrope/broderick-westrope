@@ -118,7 +118,16 @@
 \section{Experience}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Software Engineer \& Consultant}{Feb. 2023 - Present}
+      {Software Engineer}{Nov. 2024 - Present}
+      {DroneShield}{Sydney, NSW}
+      \resumeItemListStart
+        \resumeItem{Developing and maintaining the C2 suite of tools which uses Go, React, WebSockets, HTTP, and gRPC.}
+        \resumeItem{Translating customer feedback into tickets with acceptance criteria.}
+      \resumeItemListEnd
+      \vspace{5pt}
+
+    \resumeSubheading
+      {Software Engineer \& Consultant}{Dec. 2022 - Nov. 2024}
       {Mantel Group}{Sydney, NSW}
       \resumeItemListStart
         \resumeItem{Spearheaded projects with ASP.NET (C\#) to architect, uplift, and migrate REST APIs.}
@@ -136,14 +145,10 @@
             \resumeItem{Implemented innovative features, including authentication, eye-tracking technology, and activity-based assessments, significantly enhancing patient diagnosis and treatment monitoring.}
             \resumeItem{Enabled data-driven therapy decisions by securely collecting and analysing user performance data, directly contributing to the application's adoption by health professionals for improved patient care.}
       \resumeItemListEnd
-
-    \resumeSubheading
-      {Intern}{Jun. 2019}
-      {Atlassian}{Sydney, NSW}
   \resumeSubHeadingListEnd
 
-%-----------PROJECTS-----------
-\section{Projects}
+%-----------PERSONAL PROJECTS-----------
+\section{Personal Projects}
     \resumeSubHeadingListStart
       \resumeProjectHeading
           {\textbf{Tetrigo}}{Nov. 2023 - Present}
