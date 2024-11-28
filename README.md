@@ -10,10 +10,10 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (today)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (6 days ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 week ago)
-- [temporalio/documentation](https://github.com/temporalio/documentation) - Temporal documentation (1 month ago)
 
 ## 🌱 My latest projects
 
