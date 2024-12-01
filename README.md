@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (today)
 - [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (today)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (today)
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (2 days ago)
 - [nakshatraraghav/cypherstorm](https://github.com/nakshatraraghav/cypherstorm) - CypherStorm is a cryptographic suite of tools for compressing, encrypting, and hashing files or folders with customizable algorithms, providing flexible, high-security file management. (1 week ago)
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (1 week ago)
 
 ## 💬 Feedback
 
