@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (today)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (4 days ago)
 - [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (4 days ago)
 - [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (4 days ago)
 - [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (6 days ago)
-- [nakshatraraghav/cypherstorm](https://github.com/nakshatraraghav/cypherstorm) - CypherStorm is a cryptographic suite of tools for compressing, encrypting, and hashing files or folders with customizable algorithms, providing flexible, high-security file management. (2 weeks ago)
 
 ## 💬 Feedback
 
