@@ -9,8 +9,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 days ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (5 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (6 days ago)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 weeks ago)
@@ -30,18 +30,18 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔨 Latest Pull Requests I published
 
-- [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (6 days ago)
-- [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (6 days ago)
-- [feat: change current job to DroneShield](https://github.com/Broderick-Westrope/astro-portfolio/pull/4) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
+- [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (1 week ago)
+- [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (1 week ago)
+- [feat: change current job to DroneShield](https://github.com/Broderick-Westrope/astro-portfolio/pull/4) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
 - [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 - [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 
 ## ⭐ Recent stars
 
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (3 days ago)
-- [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (3 days ago)
-- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (3 days ago)
-- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (5 days ago)
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (4 days ago)
+- [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (4 days ago)
+- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (4 days ago)
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (6 days ago)
 - [nakshatraraghav/cypherstorm](https://github.com/nakshatraraghav/cypherstorm) - CypherStorm is a cryptographic suite of tools for compressing, encrypting, and hashing files or folders with customizable algorithms, providing flexible, high-security file management. (2 weeks ago)
 
 ## 💬 Feedback
