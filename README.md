@@ -9,11 +9,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (6 days ago)
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 weeks ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 week ago)
+- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (2 weeks ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 weeks ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -33,16 +33,16 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (1 week ago)
 - [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (1 week ago)
 - [feat: change current job to DroneShield](https://github.com/Broderick-Westrope/astro-portfolio/pull/4) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
-- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
-- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
+- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
+- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
 
 ## ⭐ Recent stars
 
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (today)
-- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (4 days ago)
-- [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (4 days ago)
-- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (4 days ago)
-- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (6 days ago)
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (1 day ago)
+- [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (5 days ago)
+- [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (5 days ago)
+- [alexedwards/scs](https://github.com/alexedwards/scs) - HTTP Session Management for Go (5 days ago)
+- [gomlx/gomlx](https://github.com/gomlx/gomlx) - GoMLX: An Accelerated Machine Learning Framework For Go (1 week ago)
 
 ## 💬 Feedback
 
