@@ -38,11 +38,11 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## ⭐ Recent stars
 
+- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (today)
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (1 day ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (3 days ago)
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (5 days ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
-- [etopiei/up-cli](https://github.com/etopiei/up-cli) - A CLI to interact with the Up banking API. (1 week ago)
 
 ## 💬 Feedback
 
