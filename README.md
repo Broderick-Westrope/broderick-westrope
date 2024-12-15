@@ -12,8 +12,8 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 weeks ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (4 weeks ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 weeks ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
 
 ## 🌱 My latest projects
 
@@ -25,7 +25,7 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 3 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 4 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
@@ -33,14 +33,14 @@ As a consultant, I get exposure to a broad range of tools. For an up-to-date lis
 - [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (2 weeks ago)
 - [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (2 weeks ago)
 - [feat: change current job to DroneShield](https://github.com/Broderick-Westrope/astro-portfolio/pull/4) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
-- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 weeks ago)
-- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 weeks ago)
+- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
+- [feat: use XDG specification](https://github.com/Broderick-Westrope/tetrigo/pull/23) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 
 ## ⭐ Recent stars
 
-- [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams (1 day ago)
-- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (4 days ago)
-- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (5 days ago)
+- [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams (2 days ago)
+- [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (5 days ago)
+- [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (6 days ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 week ago)
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (1 week ago)
 
