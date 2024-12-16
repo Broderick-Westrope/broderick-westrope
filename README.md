@@ -5,13 +5,13 @@
 The following is an up-to-date record of my GitHub activity. For more information about me please see [my portfolio](https://www.westrope.dev/).
 
 ## 🛠 Skills
-As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf)
+For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This includes information about my professional work, which is not listed here.
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (today)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 weeks ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
 
