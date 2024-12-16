@@ -5,7 +5,7 @@
 The following is an up-to-date record of my GitHub activity. For more information about me please see [my portfolio](https://www.westrope.dev/).
 
 ## 🛠 Skills
-As a consultant, I get exposure to a broad range of tools. For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf)
+For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This includes information about my professional work, which is not listed here.
 
 ## 🔭 I’m currently working on...
 {{range recentContributions 5}}
