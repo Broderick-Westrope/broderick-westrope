@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [sqids/sqids-go](https://github.com/sqids/sqids-go) - Official Go port of Sqids. Generate short unique IDs from numbers. (today)
 - [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams (4 days ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (1 week ago)
 - [destel/rill](https://github.com/destel/rill) - Go toolkit for clean, composable, channel-based concurrency (1 week ago)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 week ago)
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (1 week ago)
 
 ## 💬 Feedback
 
