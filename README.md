@@ -20,7 +20,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together.
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem.
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible.
-- [Broderick-Westrope/eventurely-auth](https://github.com/Broderick-Westrope/eventurely-auth) - Auth server for Eventurely project.
+- [Broderick-Westrope/old-eventurely-auth](https://github.com/Broderick-Westrope/old-eventurely-auth) - Auth server for Eventurely project.
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio)
 
 ## 🚀 Latest releases I've contributed to
