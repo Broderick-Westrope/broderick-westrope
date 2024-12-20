@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (today)
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (2 days ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 days ago)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
 
 ## 🌱 My latest projects
 
@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [docs(readme): change install version to latest stable release](https://github.com/Broderick-Westrope/tetrigo/pull/26) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [refactor: cleanup error wrapping; add fatal error msg](https://github.com/Broderick-Westrope/tetrigo/pull/25) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (3 weeks ago)
 - [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (3 weeks ago)
 - [feat: change current job to DroneShield](https://github.com/Broderick-Westrope/astro-portfolio/pull/4) on [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
-- [feat: use XDG for config](https://github.com/Broderick-Westrope/tetrigo/pull/24) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 
 ## ⭐ Recent stars
 
