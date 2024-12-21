@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [refactor: cleanup pkg/tetris/](https://github.com/Broderick-Westrope/tetrigo/pull/34) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [chore: remove panics](https://github.com/Broderick-Westrope/tetrigo/pull/33) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [docs(readme): change install version to latest stable release](https://github.com/Broderick-Westrope/tetrigo/pull/26) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 day ago)
 - [refactor: cleanup error wrapping; add fatal error msg](https://github.com/Broderick-Westrope/tetrigo/pull/25) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 day ago)
 - [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (3 weeks ago)
-- [feat: update CV with DroneShield](https://github.com/Broderick-Westrope/broderick-westrope/pull/1) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (3 weeks ago)
 
 ## ⭐ Recent stars
 
