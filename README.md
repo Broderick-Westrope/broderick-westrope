@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [refactor: rename WaitForOutput function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (today)
+- [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [refactor: cleanup pkg/tetris/](https://github.com/Broderick-Westrope/tetrigo/pull/34) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
 - [chore: remove panics](https://github.com/Broderick-Westrope/tetrigo/pull/33) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
 - [docs(readme): change install version to latest stable release](https://github.com/Broderick-Westrope/tetrigo/pull/26) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
-- [refactor: cleanup error wrapping; add fatal error msg](https://github.com/Broderick-Westrope/tetrigo/pull/25) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
-- [ci: allow manual dispatch](https://github.com/Broderick-Westrope/broderick-westrope/pull/2) on [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) (3 weeks ago)
 
 ## ⭐ Recent stars
 
