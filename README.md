@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (today)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
 - [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. (3 days ago)
 - [mfulz/chocolate](https://github.com/mfulz/chocolate) - Layout container for Bubble Tea (3 days ago)
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (1 week ago)
-- [sqids/sqids-go](https://github.com/sqids/sqids-go) - Official Go port of Sqids. Generate short unique IDs from numbers. (1 week ago)
-- [rezible/rezible](https://github.com/rezible/rezible) - Mission Control for Oncall Teams (1 week ago)
 
 ## 💬 Feedback
 
