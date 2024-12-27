@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (today)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (today)
 - [Broderick-Westrope/mactc-website](https://github.com/Broderick-Westrope/mactc-website) - Website for Macarthur Tuition Centre. (3 days ago)
 - [Broderick-Westrope/goku](https://github.com/Broderick-Westrope/goku) - A sudoku tool written in Go. (3 days ago)
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (4 days ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 week ago)
 
 ## 🌱 My latest projects
 
@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [chore: setup homebrew releases](https://github.com/Broderick-Westrope/tetrigo/pull/37) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [chore: update Go version for release](https://github.com/Broderick-Westrope/tetrigo/pull/36) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [refactor: rename WaitForOutput function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
 - [refactor: cleanup pkg/tetris/](https://github.com/Broderick-Westrope/tetrigo/pull/34) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
-- [chore: remove panics](https://github.com/Broderick-Westrope/tetrigo/pull/33) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 
 ## ⭐ Recent stars
 
