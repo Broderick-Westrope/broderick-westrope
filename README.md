@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (today)
+- [watzon/goshot](https://github.com/watzon/goshot) - 🎨 Create beautiful code screenshots with customizable styles  (today)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (1 day ago)
 - [go-ozzo/ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags. (4 days ago)
-- [mfulz/chocolate](https://github.com/mfulz/chocolate) - Layout container for Bubble Tea (4 days ago)
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin&#39; diffs. Actually… nah… The best-lookin&#39; diffs. :tada: (1 week ago)
 
 ## 💬 Feedback
 
