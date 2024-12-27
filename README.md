@@ -17,24 +17,25 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap)
 - [Broderick-Westrope/goku](https://github.com/Broderick-Westrope/goku) - A sudoku tool written in Go.
 - [Broderick-Westrope/mactc-website](https://github.com/Broderick-Westrope/mactc-website) - Website for Macarthur Tuition Centre.
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together.
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem.
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible.
 
 ## 🚀 Latest releases I've contributed to
 
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), today) - Play Tetris in your terminal.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
 
+- [chore: update Go version for release](https://github.com/Broderick-Westrope/tetrigo/pull/36) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [refactor: rename WaitForOutput function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 days ago)
 - [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
 - [refactor: cleanup pkg/tetris/](https://github.com/Broderick-Westrope/tetrigo/pull/34) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
 - [chore: remove panics](https://github.com/Broderick-Westrope/tetrigo/pull/33) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (6 days ago)
-- [docs(readme): change install version to latest stable release](https://github.com/Broderick-Westrope/tetrigo/pull/26) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 
 ## ⭐ Recent stars
 
