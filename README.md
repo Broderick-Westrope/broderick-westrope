@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 days ago)
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 days ago)
-- [Broderick-Westrope/mactc-website](https://github.com/Broderick-Westrope/mactc-website) - Website for Macarthur Tuition Centre. (5 days ago)
-- [Broderick-Westrope/goku](https://github.com/Broderick-Westrope/goku) - A sudoku tool written in Go. (5 days ago)
-- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (6 days ago)
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (3 days ago)
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 days ago)
+- [Broderick-Westrope/mactc-website](https://github.com/Broderick-Westrope/mactc-website) - Website for Macarthur Tuition Centre. (6 days ago)
+- [Broderick-Westrope/goku](https://github.com/Broderick-Westrope/goku) - A sudoku tool written in Go. (6 days ago)
+- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (1 week ago)
 
 ## 🌱 My latest projects
 
@@ -25,25 +25,25 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 days ago) - Play Tetris in your terminal.
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 3 days ago) - Play Tetris in your terminal.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 month ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
 
-- [chore: setup homebrew releases](https://github.com/Broderick-Westrope/tetrigo/pull/37) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
-- [chore: update Go version for release](https://github.com/Broderick-Westrope/tetrigo/pull/36) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 days ago)
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 days ago)
-- [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 days ago)
+- [chore: setup homebrew releases](https://github.com/Broderick-Westrope/tetrigo/pull/37) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
+- [chore: update Go version for release](https://github.com/Broderick-Westrope/tetrigo/pull/36) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 days ago)
+- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (5 days ago)
+- [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
 - [refactor: cleanup pkg/tetris/](https://github.com/Broderick-Westrope/tetrigo/pull/34) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 
 ## ⭐ Recent stars
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (today)
-- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (2 days ago)
-- [watzon/goshot](https://github.com/watzon/goshot) - 🎨 Create beautiful code screenshots with customizable styles  (2 days ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (3 days ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (3 days ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (3 days ago)
+- [watzon/goshot](https://github.com/watzon/goshot) - 🎨 Create beautiful code screenshots with customizable styles  (3 days ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (4 days ago)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (4 days ago)
 
 ## 💬 Feedback
 
