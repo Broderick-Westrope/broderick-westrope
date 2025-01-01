@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
+- [chore: update vscode launch config](https://github.com/Broderick-Westrope/tetrigo/pull/39) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [fix: soft drop bugs](https://github.com/Broderick-Westrope/tetrigo/pull/38) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (today)
 - [chore: setup homebrew releases](https://github.com/Broderick-Westrope/tetrigo/pull/37) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
 - [chore: update Go version for release](https://github.com/Broderick-Westrope/tetrigo/pull/36) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (5 days ago)
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/311) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 week ago)
-- [test(tui): add view tests](https://github.com/Broderick-Westrope/tetrigo/pull/35) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 
 ## ⭐ Recent stars
 
