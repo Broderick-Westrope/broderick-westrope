@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [chris17453/flort](https://github.com/chris17453/flort) - A project repo flattener. Dump all your code into a single file for use in LLM&#39;s. (today)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (4 days ago)
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (6 days ago)
 - [watzon/goshot](https://github.com/watzon/goshot) - 🎨 Create beautiful code screenshots with customizable styles  (6 days ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 week ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (1 week ago)
 
 ## 💬 Feedback
 
