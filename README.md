@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (today)
 - [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (2 days ago)
 - [chris17453/flort](https://github.com/chris17453/flort) - A project repo flattener. Dump all your code into a single file for use in LLM&#39;s. (4 days ago)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 week ago)
 - [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (1 week ago)
-- [watzon/goshot](https://github.com/watzon/goshot) - 🎨 Create beautiful code screenshots with customizable styles  (1 week ago)
 
 ## 💬 Feedback
 
