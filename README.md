@@ -39,10 +39,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 days ago)
-- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (2 days ago)
-- [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (4 days ago)
-- [chris17453/flort](https://github.com/chris17453/flort) - A project repo flattener. Dump all your code into a single file for use in LLM&#39;s. (6 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (3 days ago)
+- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (3 days ago)
+- [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (5 days ago)
+- [chris17453/flort](https://github.com/chris17453/flort) - A project repo flattener. Dump all your code into a single file for use in LLM&#39;s. (1 week ago)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 week ago)
 
 ## 💬 Feedback
