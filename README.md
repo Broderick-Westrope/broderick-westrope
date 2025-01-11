@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (today)
-- [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (today)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (today)
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 day ago)
+- [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (1 day ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 day ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 weeks ago)
 
@@ -27,11 +27,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 weeks ago) - Play Tetris in your terminal.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 1 month ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 1 month ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 2 months ago) - Style definitions for nice terminal layouts 👄
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (1 day ago)
+- [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (2 days ago)
 - [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 - [chore: update vscode launch config](https://github.com/Broderick-Westrope/tetrigo/pull/39) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
 - [fix: soft drop bugs](https://github.com/Broderick-Westrope/tetrigo/pull/38) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 week ago)
@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (1 day ago)
-- [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API (1 day ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (4 days ago)
-- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (4 days ago)
-- [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (6 days ago)
+- [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (2 days ago)
+- [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API (2 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (5 days ago)
+- [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (5 days ago)
+- [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (1 week ago)
 
 ## 💬 Feedback
 
