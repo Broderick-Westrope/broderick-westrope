@@ -9,19 +9,19 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs. (today)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 day ago)
 - [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (1 day ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 day ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 weeks ago)
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs.
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique.
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap)
 - [Broderick-Westrope/mactc-website](https://github.com/Broderick-Westrope/mactc-website) - Website for Macarthur Tuition Centre.
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together.
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem.
 
 ## 🚀 Latest releases I've contributed to
 
