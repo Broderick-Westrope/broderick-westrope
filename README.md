@@ -25,6 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
+- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.3.0](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.3.0), today) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 weeks ago) - Play Tetris in your terminal.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.4](https://github.com/charmbracelet/wish/releases/tag/v1.4.4), 1 month ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-alpha.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-alpha.2), 2 months ago) - Style definitions for nice terminal layouts 👄
