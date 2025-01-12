@@ -10,9 +10,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs. (today)
-- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (2 days ago)
 - [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (2 days ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 days ago)
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (2 days ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
 
 ## 🌱 My latest projects
