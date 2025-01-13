@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (today)
 - [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (4 days ago)
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API (4 days ago)
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
 - [natefinch/lumberjack](https://github.com/natefinch/lumberjack) - lumberjack is a log rolling package for Go (1 week ago)
-- [ilmari-h/dlvtui](https://github.com/ilmari-h/dlvtui) - TUI Go debugger, frontend for Delve. WIP (1 week ago)
 
 ## 💬 Feedback
 
