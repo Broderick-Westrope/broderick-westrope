@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (today)
 - [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (today)
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (2 days ago)
 - [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (6 days ago)
 - [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API (6 days ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 week ago)
 
 ## 💬 Feedback
 
