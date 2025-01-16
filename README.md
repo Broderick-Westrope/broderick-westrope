@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (today)
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs. (1 day ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (3 days ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (6 days ago)
 - [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (6 days ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (6 days ago)
 
 ## 🌱 My latest projects
 
