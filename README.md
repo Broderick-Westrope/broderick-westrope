@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (today)
 - [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (1 day ago)
 - [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (1 day ago)
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (3 days ago)
 - [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (1 week ago)
-- [afuh/rick-and-morty-api](https://github.com/afuh/rick-and-morty-api) - The Rick and Morty API (1 week ago)
 
 ## 💬 Feedback
 
