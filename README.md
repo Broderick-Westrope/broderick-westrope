@@ -31,19 +31,19 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (today)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (1 week ago)
 - [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 - [chore: update vscode launch config](https://github.com/Broderick-Westrope/tetrigo/pull/39) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 - [fix: soft drop bugs](https://github.com/Broderick-Westrope/tetrigo/pull/38) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
-- [chore: setup homebrew releases](https://github.com/Broderick-Westrope/tetrigo/pull/37) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
 
 ## ⭐ Recent stars
 
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (today)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (2 days ago)
 - [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (3 days ago)
 - [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (3 days ago)
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (5 days ago)
-- [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (1 week ago)
 
 ## 💬 Feedback
 
