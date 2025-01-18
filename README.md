@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (1 day ago)
-- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs. (2 days ago)
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (4 days ago)
+- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (2 days ago)
+- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - Create consolidated snapshots of source code for analysis, documentation, and sharing with LLMs. (3 days ago)
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (5 days ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 week ago)
 - [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (1 week ago)
 
@@ -39,10 +39,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (1 day ago)
-- [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (2 days ago)
-- [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (2 days ago)
-- [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (4 days ago)
+- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (2 days ago)
+- [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (3 days ago)
+- [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (3 days ago)
+- [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (5 days ago)
 - [scott-mescudi/stegano](https://github.com/scott-mescudi/stegano) - The fastest steganography library built for go (1 week ago)
 
 ## 💬 Feedback
