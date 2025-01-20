@@ -42,7 +42,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 days ago)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (4 days ago)
 - [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (5 days ago)
-- [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) (5 days ago)
+- [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) - An interactive terminal-based application designed to teach users the basics of Vim motions in a fun and engaging way (5 days ago)
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (1 week ago)
 
 ## 💬 Feedback
