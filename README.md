@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs (today)
+- [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper (today)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (today)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 days ago)
 - [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (6 days ago)
-- [tferdous17/genesis](https://github.com/tferdous17/genesis) - High-performance distributed key-value store w/ a log-structured merge tree implementation written in pure Go &#43; gRPC (1 week ago)
-- [dasvh/go-learn-vim](https://github.com/dasvh/go-learn-vim) - An interactive terminal-based application designed to teach users the basics of Vim motions in a fun and engaging way (1 week ago)
-- [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (1 week ago)
 
 ## 💬 Feedback
 
