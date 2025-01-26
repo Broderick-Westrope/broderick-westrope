@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [vbd/Fieldnotes](https://github.com/vbd/Fieldnotes) - Public repository of my field notes from 25&#43; years as computer guy (today)
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs (4 days ago)
 - [carolynvs/stingoftheviper](https://github.com/carolynvs/stingoftheviper) - Share configuration between spf13/cobra and spf13/viper (4 days ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (4 days ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 week ago)
-- [cenkalti/backoff](https://github.com/cenkalti/backoff) - ⏱ The exponential backoff algorithm in Go (1 week ago)
 
 ## 💬 Feedback
 
