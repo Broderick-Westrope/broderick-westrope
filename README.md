@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (today)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (today)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (today)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (today)
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (1 week ago)
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - CLI tool for creating single-file snapshots of multiple (code) files. (2 weeks ago)
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -42,9 +42,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (today)
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (today)
-- [pythops/tenere](https://github.com/pythops/tenere) - 🤖 TUI interface for LLMs written in Rust (today)
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. (2 days ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (2 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
 
 ## 💬 Feedback
 
