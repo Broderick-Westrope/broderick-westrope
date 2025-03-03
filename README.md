@@ -40,8 +40,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [vjerci/gochromecast](https://github.com/vjerci/gochromecast) - A simple tool to stream your media to android TV or chromecast device (4 days ago)
-- [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) - Minecraft clone from scratch with only OpenGL (4 days ago)
+- [vjerci/gochromecast](https://github.com/vjerci/gochromecast) - A simple tool to stream your media to android TV or chromecast device (5 days ago)
+- [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) - Minecraft clone from scratch with only OpenGL (5 days ago)
 - [go-simpler/sloglint](https://github.com/go-simpler/sloglint) - 🪵 Ensure consistent code style when using log/slog (2 weeks ago)
 - [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (2 weeks ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (2 weeks ago)
