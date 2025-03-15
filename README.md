@@ -25,14 +25,14 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 2 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 1 month ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 1 month ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 months ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 weeks ago)
+- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 month ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (1 month ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (1 month ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (2 months ago)
@@ -42,9 +42,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [vjerci/gochromecast](https://github.com/vjerci/gochromecast) - A simple tool to stream your media to android TV or chromecast device (2 weeks ago)
 - [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) - Minecraft clone from scratch with only OpenGL (2 weeks ago)
-- [go-simpler/sloglint](https://github.com/go-simpler/sloglint) - 🪵 Ensure consistent code style when using log/slog (3 weeks ago)
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (3 weeks ago)
-- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (4 weeks ago)
+- [go-simpler/sloglint](https://github.com/go-simpler/sloglint) - 🪵 Ensure consistent code style when using log/slog (4 weeks ago)
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (4 weeks ago)
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 month ago)
 
 ## 💬 Feedback
 
