@@ -12,7 +12,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (1 month ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 month ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 month ago)
-- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (1 month ago)
+- [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (2 months ago)
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) - CLI tool for creating single-file snapshots of multiple (code) files. (2 months ago)
 
 ## 🌱 My latest projects
@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v1.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v1.1.0), 4 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.6](https://github.com/charmbracelet/wish/releases/tag/v1.4.6), 1 month ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 1 month ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 months ago) - Play Tetris in your terminal.
@@ -42,8 +42,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [vjerci/gochromecast](https://github.com/vjerci/gochromecast) - A simple tool to stream your media to android TV or chromecast device (2 weeks ago)
 - [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) - Minecraft clone from scratch with only OpenGL (2 weeks ago)
-- [go-simpler/sloglint](https://github.com/go-simpler/sloglint) - 🪵 Ensure consistent code style when using log/slog (4 weeks ago)
-- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (4 weeks ago)
+- [go-simpler/sloglint](https://github.com/go-simpler/sloglint) - 🪵 Ensure consistent code style when using log/slog (1 month ago)
+- [reugn/go-quartz](https://github.com/reugn/go-quartz) - Minimalist and zero-dependency scheduling library for Go (1 month ago)
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway (1 month ago)
 
 ## 💬 Feedback
