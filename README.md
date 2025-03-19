@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (today)
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (today)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (today)
 - [deckarep/golang-set](https://github.com/deckarep/golang-set) - A simple, battle-tested and generic set type for the Go language. Trusted by Docker, 1Password, Ethereum and Hashicorp. (today)
 - [vjerci/gochromecast](https://github.com/vjerci/gochromecast) - A simple tool to stream your media to android TV or chromecast device (3 weeks ago)
-- [GianlucaP106/minecraft](https://github.com/GianlucaP106/minecraft) - Minecraft clone from scratch with only OpenGL (3 weeks ago)
 
 ## 💬 Feedback
 
