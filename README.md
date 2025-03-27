@@ -25,10 +25,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 2 days ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 1 month ago) - CLI tool for creating single-file snapshots of multiple (code) files.
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 months ago) - Play Tetris in your terminal.
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 3 months ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
@@ -40,7 +40,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (1 day ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (2 days ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 week ago)
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 week ago)
 - [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware. (1 week ago)
