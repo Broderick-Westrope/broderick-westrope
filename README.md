@@ -11,8 +11,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 week ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (2 months ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (2 months ago)
 
 ## 🌱 My latest projects
@@ -33,7 +33,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 month ago)
+- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (2 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (2 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (3 months ago)
@@ -41,7 +41,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (4 days ago)
+- [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (5 days ago)
 - [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (1 week ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (2 weeks ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (3 weeks ago)
