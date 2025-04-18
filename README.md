@@ -35,7 +35,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (2 months ago)
-- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (2 months ago)
+- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (3 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (3 months ago)
 - [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
 
@@ -44,8 +44,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (1 week ago)
 - [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (2 weeks ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (3 weeks ago)
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (4 weeks ago)
-- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (4 weeks ago)
+- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
+- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 month ago)
 
 ## 💬 Feedback
 
