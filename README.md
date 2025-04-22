@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 weeks ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
@@ -26,7 +26,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🚀 Latest releases I've contributed to
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 3 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 3 weeks ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 4 weeks ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 2 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 3 months ago) - Play Tetris in your terminal.
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 4 months ago) - Simple, reliable, and efficient distributed task queue in Go
@@ -42,8 +42,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## ⭐ Recent stars
 
 - [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (1 week ago)
-- [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (2 weeks ago)
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (3 weeks ago)
+- [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (3 weeks ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (4 weeks ago)
 - [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
 - [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 month ago)
 
