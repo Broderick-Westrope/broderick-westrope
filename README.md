@@ -41,11 +41,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
+- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (today)
 - [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (1 week ago)
 - [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (3 weeks ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (4 weeks ago)
-- [bytedance/sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing &amp; deserializing library (1 month ago)
-- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 month ago)
 
 ## 💬 Feedback
 
