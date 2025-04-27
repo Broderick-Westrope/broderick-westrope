@@ -27,24 +27,24 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 month ago) - Make SSH apps, just like that! 💫
-- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 2 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
+- [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 3 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 4 months ago) - Play Tetris in your terminal.
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 4 months ago) - Simple, reliable, and efficient distributed task queue in Go
 
 ## 🔨 Latest Pull Requests I published
 
 - [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (2 months ago)
-- [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (2 months ago)
+- [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (3 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (3 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (3 months ago)
 - [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
 
 ## ⭐ Recent stars
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (today)
-- [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
-- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (4 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 day ago)
+- [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (5 days ago)
 - [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (2 weeks ago)
 
 ## 💬 Feedback
