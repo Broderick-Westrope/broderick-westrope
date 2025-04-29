@@ -9,10 +9,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (3 weeks ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 weeks ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (2 months ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 months ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 months ago)
 - [Broderick-Westrope/example-go-connect-jet-atlas](https://github.com/Broderick-Westrope/example-go-connect-jet-atlas) - An example of how to use Go, Connect RPC, go-jet, and Atlas together. (3 months ago)
 
 ## 🌱 My latest projects
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (2 days ago)
-- [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (5 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
-- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (6 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (3 days ago)
+- [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (6 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
+- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (1 week ago)
 - [npcnixel/genanki-go](https://github.com/npcnixel/genanki-go) - Go library for generating Anki notes, decks, packages (genanki port) (2 weeks ago)
 
 ## 💬 Feedback
