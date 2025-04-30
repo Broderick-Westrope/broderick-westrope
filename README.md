@@ -41,11 +41,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
 - [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (1 day ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (4 days ago)
 - [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [Karim-W/go-azure-communication-services](https://github.com/Karim-W/go-azure-communication-services) - Golang Implementaion of the azure communication services REST APIs (1 week ago)
 
 ## 💬 Feedback
 
