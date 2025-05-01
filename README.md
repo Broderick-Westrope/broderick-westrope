@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 weeks ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (3 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 months ago)
@@ -37,13 +37,13 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (3 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (3 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (3 months ago)
-- [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
+- [chore: use object for menu form data](https://github.com/Broderick-Westrope/tetrigo/pull/40) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 months ago)
 
 ## ⭐ Recent stars
 
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (today)
-- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (1 day ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (4 days ago)
+- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (1 day ago)
+- [markvincze/sabledocs](https://github.com/markvincze/sabledocs) - Simple static documentation generator for Protobuf and gRPC contracts. (2 days ago)
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (5 days ago)
 - [devasherr/Nexom](https://github.com/devasherr/Nexom) - A strictly-ordered SQL query builder for Go that enforces proper query precedence through type-safe method chaining. Supports any `database/sql` driver (MySQL, PostgreSQL, SQLite). (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 
