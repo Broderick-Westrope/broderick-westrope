@@ -41,11 +41,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (today)
 - [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (1 day ago)
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (6 days ago)
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system. (1 week ago)
 - [doganarif/GoVisual](https://github.com/doganarif/GoVisual) - Zero-config, pure-Go HTTP request visualizer &amp; debugger for local Go web development. (2 weeks ago)
-- [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (2 weeks ago)
 
 ## 💬 Feedback
 
