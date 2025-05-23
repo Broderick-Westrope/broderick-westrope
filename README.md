@@ -9,8 +9,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (3 months ago)
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (today)
-- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (1 day ago)
-- [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (2 days ago)
-- [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (3 days ago)
+- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (1 day ago)
+- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (2 days ago)
+- [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (3 days ago)
+- [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (4 days ago)
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (1 week ago)
 
 ## 💬 Feedback
