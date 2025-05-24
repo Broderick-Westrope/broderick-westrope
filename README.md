@@ -9,8 +9,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (5 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (6 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (3 months ago)
@@ -27,7 +27,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 1 month ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 1 month ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 1 month ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 2 months ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 3 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 4 months ago) - Play Tetris in your terminal.
 
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (1 day ago)
-- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (2 days ago)
-- [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (3 days ago)
-- [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (4 days ago)
+- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (2 days ago)
+- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (3 days ago)
+- [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (4 days ago)
+- [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (5 days ago)
 - [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (1 week ago)
 
 ## 💬 Feedback
