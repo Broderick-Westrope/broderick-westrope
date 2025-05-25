@@ -41,11 +41,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (today)
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (today)
 - [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (3 days ago)
 - [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (4 days ago)
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (5 days ago)
-- [matthieugusmini/rift](https://github.com/matthieugusmini/rift) - Stay up to date with League of Legends eSport in your terminal! (6 days ago)
-- [jamesroutley/write-a-hash-table](https://github.com/jamesroutley/write-a-hash-table) - ✏️ Learn how to write a hash table in C (1 week ago)
 
 ## 💬 Feedback
 
