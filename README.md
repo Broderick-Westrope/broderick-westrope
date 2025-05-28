@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (2 days ago)
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (2 days ago)
-- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (5 days ago)
-- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (6 days ago)
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (3 days ago)
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (3 days ago)
+- [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (6 days ago)
+- [HalfToothed/gostman](https://github.com/HalfToothed/gostman) - A terminal-based API client | Postman TUI Alternative (1 week ago)
 - [fogleman/nes](https://github.com/fogleman/nes) - NES emulator written in Go. (1 week ago)
 
 ## 💬 Feedback
