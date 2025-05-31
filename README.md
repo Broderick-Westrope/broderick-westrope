@@ -10,9 +10,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 week ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
-- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (1 month ago)
+- [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 months ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (4 months ago)
 
 ## 🌱 My latest projects
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (today)
-- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (1 day ago)
-- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (5 days ago)
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (5 days ago)
+- [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (1 day ago)
+- [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (2 days ago)
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (6 days ago)
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (6 days ago)
 - [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (1 week ago)
 
 ## 💬 Feedback
