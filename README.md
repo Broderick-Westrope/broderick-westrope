@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 weeks ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 weeks ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 weeks ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 months ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (4 months ago)
 
@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 1 month ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 2 months ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 2 months ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 2 months ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 4 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
@@ -37,14 +37,14 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (3 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (4 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (4 months ago)
-- [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (4 months ago)
+- [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (5 months ago)
 
 ## ⭐ Recent stars
 
 - [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (1 week ago)
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (1 week ago)
-- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (1 week ago)
-- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (1 week ago)
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (2 weeks ago)
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces. (2 weeks ago)
 - [BlueMonday/go-scryfall](https://github.com/BlueMonday/go-scryfall) - Golang client for the Scryfall API (2 weeks ago)
 
 ## 💬 Feedback
