@@ -10,7 +10,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 weeks ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 weeks ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 month ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 month ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (2 months ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (4 months ago)
@@ -41,8 +41,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (4 days ago)
-- [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (5 days ago)
+- [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (5 days ago)
+- [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (6 days ago)
 - [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (2 weeks ago)
 - [goforj/godump](https://github.com/goforj/godump) - A minimal, developer-friendly pretty-printer and debug dumper for Go structs, inspired by Laravel’s dump() and Symfony’s VarDumper. (2 weeks ago)
 - [siddhantac/puffin](https://github.com/siddhantac/puffin) - A beautiful terminal dashboard for hledger 💰 (3 weeks ago)
