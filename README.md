@@ -41,8 +41,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (today)
-- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (3 days ago)
+- [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (1 day ago)
+- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (4 days ago)
 - [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (1 week ago)
 - [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (1 week ago)
 - [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (3 weeks ago)
