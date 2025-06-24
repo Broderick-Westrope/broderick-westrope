@@ -26,7 +26,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🚀 Latest releases I've contributed to
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 2 months ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 2 months ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0-beta.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0-beta.1), 3 months ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 3 months ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 4 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 5 months ago) - Play Tetris in your terminal.
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (3 days ago)
-- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (6 days ago)
+- [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (4 days ago)
+- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (1 week ago)
 - [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (1 week ago)
-- [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (1 week ago)
+- [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (2 weeks ago)
 - [chilli-axe/mpc-autofill](https://github.com/chilli-axe/mpc-autofill) - Print automation software (leveraging MakePlayingCards) for your tabletop gaming community (3 weeks ago)
 
 ## 💬 Feedback
