@@ -33,7 +33,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (1 month ago)
+- [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (2 months ago)
 - [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (4 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (5 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (5 months ago)
