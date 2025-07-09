@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (1 week ago)
+- [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (2 weeks ago)
 - [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (2 weeks ago)
 - [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (3 weeks ago)
-- [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (3 weeks ago)
+- [crumbyte/noxdir](https://github.com/crumbyte/noxdir) - Terminal utility for visualizing file system usage. (4 weeks ago)
 - [dekkerglen/CubeCobra](https://github.com/dekkerglen/CubeCobra) - An open source web application for building, managing, and playtesting Magic the Gathering cubes. (4 weeks ago)
 
 ## 💬 Feedback
