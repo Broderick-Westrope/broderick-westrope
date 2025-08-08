@@ -41,7 +41,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 week ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (2 weeks ago)
 - [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (1 month ago)
 - [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (1 month ago)
 - [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (1 month ago)
