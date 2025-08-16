@@ -10,7 +10,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 week ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 months ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 months ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 months ago)
 - [Broderick-Westrope/vault-public](https://github.com/Broderick-Westrope/vault-public) - Obsidian vault containing my public artefacts (6 months ago)
@@ -36,16 +36,16 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (3 months ago)
 - [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (6 months ago)
-- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (6 months ago)
+- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (7 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (7 months ago)
 
 ## ⭐ Recent stars
 
-- [Senryoku/Draftmancer](https://github.com/Senryoku/Draftmancer) - Multiplayer MTG Limited Simulator (6 days ago)
+- [Senryoku/Draftmancer](https://github.com/Senryoku/Draftmancer) - Multiplayer MTG Limited Simulator (1 week ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 weeks ago)
 - [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (1 month ago)
 - [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (1 month ago)
-- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (1 month ago)
+- [Investigamer/cardconjurer](https://github.com/Investigamer/cardconjurer) - A website that creates custom Magic: The Gathering cards (2 months ago)
 
 ## 💬 Feedback
 
