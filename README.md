@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 days ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 months ago)
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go (4 months ago)
@@ -29,7 +29,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 4 months ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.4.7](https://github.com/charmbracelet/wish/releases/tag/v1.4.7), 5 months ago) - Make SSH apps, just like that! 💫
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 6 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 7 months ago) - Play Tetris in your terminal.
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 8 months ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
@@ -41,10 +41,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (5 days ago)
+- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (6 days ago)
 - [Senryoku/Draftmancer](https://github.com/Senryoku/Draftmancer) - Multiplayer MTG Limited Simulator (2 weeks ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (4 weeks ago)
-- [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (1 month ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 month ago)
+- [Malacath-92/Proxy-PDF-Maker](https://github.com/Malacath-92/Proxy-PDF-Maker) - App for creating PDF files for at-home printing of TCG proxies (2 months ago)
 - [alex-taxiera/proxy-print](https://github.com/alex-taxiera/proxy-print) - A small site to help print playing cards at home. (2 months ago)
 
 ## 💬 Feedback
