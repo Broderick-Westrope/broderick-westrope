@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1756036859.17253 "/Users/broderickwestrope/dev/other/broderick-westrope/CV/cv.tex" "cv.pdf" "cv" 1756036859.47068 0
+["pdflatex"] 1756097993.20682 "/Users/broderickwestrope/dev/other/broderick-westrope/CV/cv.tex" "cv.pdf" "cv" 1756097993.50812 0
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1756032542.16609 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1756032542.16586 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -87,10 +87,10 @@
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1756033304 490552 9f9dc4eeaf4a6aef1aec6277587f01a4 ""
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf-var/web2c/pdftex/pdflatex.fmt" 1756032544.25489 2258979 94a742acabb17366c860df5150d9993a ""
   "/Users/broderickwestrope/.local/share/mise/installs/tinytex/2025.08.02/texmf.cnf" 1756032544.28975 637 edd806fb06a89761a6034e1968af9017 ""
-  "/Users/broderickwestrope/dev/other/broderick-westrope/CV/cv.tex" 1756036858.9771 8197 d37d9c204dbec1ceae2114b450f54c16 ""
-  "cv.aux" 1756036859.43012 717 8dfe02fe3dd8ecadd0173aae561a408d "pdflatex"
-  "cv.out" 1756036859.43094 423 3d09826cca781fb513a4d12cd4be9054 "pdflatex"
-  "cv.tex" 1756036858.9771 8197 d37d9c204dbec1ceae2114b450f54c16 ""
+  "/Users/broderickwestrope/dev/other/broderick-westrope/CV/cv.tex" 1756097993.0161 8102 72fdab1378a5c1e45c8458d890eba473 ""
+  "cv.aux" 1756097993.46901 717 8dfe02fe3dd8ecadd0173aae561a408d "pdflatex"
+  "cv.out" 1756097993.46987 423 3d09826cca781fb513a4d12cd4be9054 "pdflatex"
+  "cv.tex" 1756097993.0161 8102 72fdab1378a5c1e45c8458d890eba473 ""
   (generated)
   "cv.aux"
   "cv.log"
