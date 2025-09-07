@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (5 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (6 days ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (1 week ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 months ago)
@@ -29,7 +29,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 5 months ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 7 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 8 months ago) - Play Tetris in your terminal.
-- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 8 months ago) - Simple, reliable, and efficient distributed task queue in Go
+- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 9 months ago) - Simple, reliable, and efficient distributed task queue in Go
 
 ## 🔨 Latest Pull Requests I published
 
