@@ -34,15 +34,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔨 Latest Pull Requests I published
 
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (4 months ago)
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (6 months ago)
+- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (7 months ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (7 months ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (7 months ago)
 - [fix: searching list](https://github.com/SaltySpaghetti/tui_test/pull/1) on [SaltySpaghetti/tui_test](https://github.com/SaltySpaghetti/tui_test) (8 months ago)
 
 ## ⭐ Recent stars
 
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (1 day ago)
-- [cloudstreet-dev/React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) - A fun way to learn a bad thing. (1 week ago)
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (2 days ago)
+- [cloudstreet-dev/React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) - A fun way to learn a bad thing. (2 weeks ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (3 weeks ago)
 - [Senryoku/Draftmancer](https://github.com/Senryoku/Draftmancer) - Multiplayer MTG Limited Simulator (1 month ago)
 - [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 month ago)
