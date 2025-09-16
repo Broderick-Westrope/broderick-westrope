@@ -40,8 +40,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (4 days ago)
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (6 days ago)
+- [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (5 days ago)
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (1 week ago)
 - [cloudstreet-dev/React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) - A fun way to learn a bad thing. (2 weeks ago)
 - [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (4 weeks ago)
 - [Senryoku/Draftmancer](https://github.com/Senryoku/Draftmancer) - Multiplayer MTG Limited Simulator (1 month ago)
