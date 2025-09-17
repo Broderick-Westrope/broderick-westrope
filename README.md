@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (today)
 - [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (1 day ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (6 days ago)
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (1 week ago)
 - [cloudstreet-dev/React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) - A fun way to learn a bad thing. (2 weeks ago)
-- [go-playground/validator](https://github.com/go-playground/validator) - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving (1 month ago)
 
 ## 💬 Feedback
 
