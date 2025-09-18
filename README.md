@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework (today)
 - [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (1 day ago)
 - [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (2 days ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 week ago)
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (1 week ago)
-- [cloudstreet-dev/React-is-Awful](https://github.com/cloudstreet-dev/React-is-Awful) - A fun way to learn a bad thing. (3 weeks ago)
 
 ## 💬 Feedback
 
