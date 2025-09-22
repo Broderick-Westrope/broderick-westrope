@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (3 days ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 weeks ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 weeks ago)
+- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (4 days ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 weeks ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 months ago)
 
@@ -40,10 +40,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [caleberi/hercules](https://github.com/caleberi/hercules) - An attempt to reproduce Google Filesystem 2002 (today)
-- [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework (3 days ago)
-- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (4 days ago)
-- [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (5 days ago)
+- [caleberi/hercules](https://github.com/caleberi/hercules) - An attempt to reproduce Google Filesystem 2002 (1 day ago)
+- [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework (4 days ago)
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (5 days ago)
+- [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (6 days ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 week ago)
 
 ## 💬 Feedback
