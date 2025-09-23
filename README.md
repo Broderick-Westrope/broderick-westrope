@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (4 days ago)
+- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (5 days ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 weeks ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 weeks ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 months ago)
@@ -27,7 +27,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 5 months ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 7 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 8 months ago) - Play Tetris in your terminal.
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 9 months ago) - Play Tetris in your terminal.
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 9 months ago) - Simple, reliable, and efficient distributed task queue in Go
 
 ## 🔨 Latest Pull Requests I published
@@ -40,10 +40,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [caleberi/hercules](https://github.com/caleberi/hercules) - An attempt to reproduce Google Filesystem 2002 (1 day ago)
-- [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework (4 days ago)
-- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (5 days ago)
-- [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (6 days ago)
+- [caleberi/hercules](https://github.com/caleberi/hercules) - An attempt to reproduce Google Filesystem 2002 (2 days ago)
+- [stackql/stackql](https://github.com/stackql/stackql) - Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework (5 days ago)
+- [expr-lang/expr](https://github.com/expr-lang/expr) - Expression language and expression evaluation for Go (6 days ago)
+- [yanmoyy/go-go-go](https://github.com/yanmoyy/go-go-go) - A Terminal-based Multiplayer Stone Shooting Game written in Go (1 week ago)
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications. (1 week ago)
 
 ## 💬 Feedback
