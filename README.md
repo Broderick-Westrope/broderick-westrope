@@ -9,10 +9,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (today)
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (5 days ago)
+- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (1 day ago)
+- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (6 days ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 week ago)
-- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (2 weeks ago)
+- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (3 weeks ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 month ago)
 
 ## 🌱 My latest projects
@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (today)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (6 days ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (6 days ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (6 days ago)
-- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (6 days ago)
+- [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library (1 day ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 week ago)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
+- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 week ago)
+- [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go. (1 week ago)
 
 ## 💬 Feedback
 
