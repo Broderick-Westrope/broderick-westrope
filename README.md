@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (1 day ago)
+- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (today)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (6 days ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 week ago)
 - [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (3 weeks ago)
