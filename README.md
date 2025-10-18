@@ -12,7 +12,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (1 week ago)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (2 weeks ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (2 weeks ago)
-- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (4 weeks ago)
+- [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (1 month ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (1 month ago)
 
 ## 🌱 My latest projects
@@ -40,10 +40,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 day ago)
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 days ago)
-- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (4 days ago)
-- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs (6 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 days ago)
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (3 days ago)
+- [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (5 days ago)
+- [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs (1 week ago)
 - [azizuysal/simtool](https://github.com/azizuysal/simtool) - A beautiful and powerful TUI for managing iOS Simulators (1 week ago)
 
 ## 💬 Feedback
