@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (1 week ago)
+- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list. (2 weeks ago)
 - [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (2 weeks ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (3 weeks ago)
 - [Broderick-Westrope/bean-jump](https://github.com/Broderick-Westrope/bean-jump) - A Doodle Jump game for your terminal! (1 month ago)
@@ -27,7 +27,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 6 months ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 8 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
-- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 9 months ago) - Play Tetris in your terminal.
+- [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 10 months ago) - Play Tetris in your terminal.
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 10 months ago) - Simple, reliable, and efficient distributed task queue in Go
 
 ## 🔨 Latest Pull Requests I published
@@ -40,11 +40,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (6 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 week ago)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (1 week ago)
 - [APIs-guru/graphql-apis](https://github.com/APIs-guru/graphql-apis) - 📜 A collective list of public GraphQL APIs (1 week ago)
-- [azizuysal/simtool](https://github.com/azizuysal/simtool) - A beautiful and powerful TUI for managing iOS Simulators (1 week ago)
+- [azizuysal/simtool](https://github.com/azizuysal/simtool) - A beautiful and powerful TUI for managing iOS Simulators (2 weeks ago)
 
 ## 💬 Feedback
 
