@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 6 months ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.0), 7 months ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) ([v0.5.1](https://github.com/Broderick-Westrope/amalgo/releases/tag/v0.5.1), 9 months ago) - CLI tool for creating single-file snapshots of multiple (code) files.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 10 months ago) - Play Tetris in your terminal.
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.25.1](https://github.com/hibiken/asynq/releases/tag/v0.25.1), 10 months ago) - Simple, reliable, and efficient distributed task queue in Go
@@ -40,10 +40,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It&#39;s a treasure trove of music resources to enhance your listening experience and discover new music. (1 day ago)
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇 (3 days ago)
+- [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It&#39;s a treasure trove of music resources to enhance your listening experience and discover new music. (2 days ago)
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Newsletter to help busy software engineers become good at system design 👇 (4 days ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 weeks ago)
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (3 weeks ago)
 - [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go. (3 weeks ago)
 
 ## 💬 Feedback
