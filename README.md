@@ -12,7 +12,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (1 month ago)
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
-- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (2 months ago)
+- [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 months ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 months ago)
 
 ## 🌱 My latest projects
@@ -25,15 +25,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 4 days ago) - TUI components for Bubble Tea 🫧
-- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 4 days ago) - Simple, reliable, and efficient distributed task queue in Go
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 5 days ago) - TUI components for Bubble Tea 🫧
+- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 5 days ago) - Simple, reliable, and efficient distributed task queue in Go
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (9 months ago)
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (11 months ago)
+- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 year ago)
 - [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (1 year ago)
 - [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (1 year ago)
 
