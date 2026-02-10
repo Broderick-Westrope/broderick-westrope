@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.21.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.21.1), 1 week ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), today) - TUI components for Bubble Tea 🫧
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 1 week ago) - Simple, reliable, and efficient distributed task queue in Go
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
