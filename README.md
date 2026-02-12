@@ -11,7 +11,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (1 month ago)
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 months ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (2 months ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 months ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 months ago)
 
@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v1.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v1.0.0), 2 days ago) - TUI components for Bubble Tea 🫧
 - [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 1 week ago) - Simple, reliable, and efficient distributed task queue in Go
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
