@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (today)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (today)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (today)
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (9 months ago)
-- [feat: add WaitForMsg function](https://github.com/charmbracelet/x/pull/377) on [charmbracelet/x](https://github.com/charmbracelet/x) (1 year ago)
-- [fix: backticks are removed from file dump](https://github.com/Broderick-Westrope/amalgo/pull/2) on [Broderick-Westrope/amalgo](https://github.com/Broderick-Westrope/amalgo) (1 year ago)
-- [chore: fix godoc comment](https://github.com/hibiken/asynq/pull/1009) on [hibiken/asynq](https://github.com/hibiken/asynq) (1 year ago)
 
 ## ⭐ Recent stars
 
