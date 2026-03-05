@@ -10,7 +10,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (1 month ago)
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 months ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (3 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (3 months ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 months ago)
@@ -26,14 +26,14 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🚀 Latest releases I've contributed to
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.0.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.0.0), 1 week ago) - TUI components for Bubble Tea 🫧
-- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 4 weeks ago) - Simple, reliable, and efficient distributed task queue in Go
+- [hibiken/asynq](https://github.com/hibiken/asynq) ([v0.26.0](https://github.com/hibiken/asynq/releases/tag/v0.26.0), 1 month ago) - Simple, reliable, and efficient distributed task queue in Go
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 days ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 days ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (2 days ago)
+- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (3 days ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (3 days ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (3 days ago)
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 months ago)
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (10 months ago)
 
