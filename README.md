@@ -31,15 +31,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (6 days ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (6 days ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (6 days ago)
+- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (1 week ago)
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 months ago)
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (10 months ago)
 
 ## ⭐ Recent stars
 
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Manage agents remotely from your phone, desktop and CLI (1 day ago)
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Manage agents remotely from your phone, desktop and CLI (2 days ago)
 - [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (2 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 months ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (4 months ago)
