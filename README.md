@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (1 day ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 days ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (2 months ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (3 months ago)
+- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 months ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (4 months ago)
 
@@ -39,10 +39,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (today)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (today)
-- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Manage agents remotely from your phone, desktop and CLI (6 days ago)
-- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (2 weeks ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (1 day ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (1 day ago)
+- [getpaseo/paseo](https://github.com/getpaseo/paseo) - Manage agents remotely from your phone, desktop and CLI (1 week ago)
+- [charmbracelet/fantasy](https://github.com/charmbracelet/fantasy) - Build AI agents with Go. Multiple providers, multiple models, one API 🧙 (3 weeks ago)
 - [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (3 months ago)
 
 ## 💬 Feedback
