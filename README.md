@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 day ago)
 - [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows. (1 day ago)
 - [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation (1 day ago)
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (2 days ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (2 days ago)
 
 ## 💬 Feedback
 
