@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (3 days ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (4 days ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 months ago)
@@ -31,19 +31,19 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
-- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (1 week ago)
+- [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
+- [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (2 weeks ago)
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 months ago)
 - [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (10 months ago)
 
 ## ⭐ Recent stars
 
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 day ago)
-- [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows. (1 day ago)
-- [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation (1 day ago)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (2 days ago)
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (1 day ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (2 days ago)
+- [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows. (2 days ago)
+- [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation (2 days ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (3 days ago)
 
 ## 💬 Feedback
 
