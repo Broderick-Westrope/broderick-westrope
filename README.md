@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (6 days ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (1 week ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (2 months ago)
 - [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 months ago)
 - [Broderick-Westrope/broderick-westrope](https://github.com/Broderick-Westrope/broderick-westrope) - Profile readme (4 months ago)
@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (3 days ago)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (4 days ago)
-- [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows. (4 days ago)
-- [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation (4 days ago)
-- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (5 days ago)
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (4 days ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (5 days ago)
+- [ariga/setup-atlas](https://github.com/ariga/setup-atlas) - A GitHub Action to install ariga/atlas in your workflows. (5 days ago)
+- [satococoa/wtp](https://github.com/satococoa/wtp) - 🌳 A powerful Git worktree CLI tool with automated setup, branch tracking, and smart navigation (5 days ago)
+- [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents (6 days ago)
 
 ## 💬 Feedback
 
