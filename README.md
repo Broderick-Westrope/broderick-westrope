@@ -39,11 +39,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [remorses/kimaki](https://github.com/remorses/kimaki) - like openclaw but on top of opencode. all opencode features deeply integrated inside Discord. each project is a channel. each session a thread (today)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (today)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN (1 day ago)
 - [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖 (1 day ago)
-- [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI. (1 day ago)
 
 ## 💬 Feedback
 
