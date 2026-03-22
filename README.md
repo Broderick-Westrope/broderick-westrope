@@ -31,19 +31,19 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [feat: move to opencode](https://github.com/Broderick-Westrope/claude-essentials/pull/3) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (today)
 - [feat: add context auditing system for CLAUDE.md](https://github.com/Broderick-Westrope/claude-essentials/pull/2) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
 - [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/Broderick-Westrope/claude-essentials/pull/1) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
 - [feat: add /ce:draft-tsd command and drafting-tsds skill](https://github.com/rileyhilliard/claude-essentials/pull/7) on [rileyhilliard/claude-essentials](https://github.com/rileyhilliard/claude-essentials) (2 weeks ago)
 - [docs(readme): add star history](https://github.com/Broderick-Westrope/tetrigo/pull/51) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (4 months ago)
-- [feat: add gRPC support](https://github.com/doganarif/GoVisual/pull/25) on [doganarif/GoVisual](https://github.com/doganarif/GoVisual) (10 months ago)
 
 ## ⭐ Recent stars
 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (today)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN (1 day ago)
 - [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖 (1 day ago)
 - [covibes/zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI. (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (1 day ago)
 
 ## 💬 Feedback
 
