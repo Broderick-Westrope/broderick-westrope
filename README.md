@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (today)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (2 days ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 weeks ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (2 months ago)
-- [Broderick-Westrope/astro-portfolio](https://github.com/Broderick-Westrope/astro-portfolio) (4 months ago)
 
 ## 🌱 My latest projects
 
