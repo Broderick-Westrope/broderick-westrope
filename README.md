@@ -9,10 +9,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (today)
-- [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (2 days ago)
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 day ago)
+- [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (3 days ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 week ago)
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (2 weeks ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (3 weeks ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (2 months ago)
 
 ## 🌱 My latest projects
@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 6 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 1 week ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
@@ -38,7 +38,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents (2 days ago)
+- [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents (3 days ago)
 - [MaxGfeller/open-harness](https://github.com/MaxGfeller/open-harness) - A code-first, composable SDK to build powerful AI agents (1 week ago)
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. (1 week ago)
 - [griffinmartin/opencode-claude-auth](https://github.com/griffinmartin/opencode-claude-auth) - OpenCode plugin that uses your existing Claude Code credentials — no separate login needed (1 week ago)
