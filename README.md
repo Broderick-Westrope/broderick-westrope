@@ -12,7 +12,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 week ago)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (1 week ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (2 weeks ago)
-- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (3 weeks ago)
+- [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (4 weeks ago)
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified. (3 months ago)
 
 ## 🌱 My latest projects
@@ -25,12 +25,12 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 1 week ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (4 days ago)
+- [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (5 days ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
 - [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (2 weeks ago)
 - [feat: move to opencode](https://github.com/Broderick-Westrope/claude-essentials/pull/3) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (2 weeks ago)
@@ -38,9 +38,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (3 days ago)
-- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (4 days ago)
-- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (6 days ago)
+- [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (4 days ago)
+- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (5 days ago)
+- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (1 week ago)
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents (1 week ago)
 - [MaxGfeller/open-harness](https://github.com/MaxGfeller/open-harness) - A code-first, composable SDK to build powerful AI agents (2 weeks ago)
 
