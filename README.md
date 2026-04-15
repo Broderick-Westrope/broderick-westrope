@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 week ago)
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (2 weeks ago)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (2 weeks ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (3 weeks ago)
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (1 month ago)
@@ -38,7 +38,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 day ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 days ago)
 - [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (1 week ago)
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (1 week ago)
 - [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (1 week ago)
