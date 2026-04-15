@@ -30,7 +30,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [add OpenCode integration](https://github.com/AgentSeal/codeburn/pull/30) on [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn) (today)
+- [add OpenCode provider](https://github.com/AgentSeal/codeburn/pull/30) on [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn) (today)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (1 week ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (3 weeks ago)
 - [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
