@@ -25,12 +25,12 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [add OpenCode provider](https://github.com/AgentSeal/codeburn/pull/30) on [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn) (today)
+- [add OpenCode provider](https://github.com/AgentSeal/codeburn/pull/30) on [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn) (1 day ago)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (1 week ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (3 weeks ago)
 - [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (3 weeks ago)
@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (today)
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 days ago)
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 day ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (3 days ago)
 - [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (1 week ago)
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (1 week ago)
-- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (1 week ago)
+- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (2 weeks ago)
 
 ## 💬 Feedback
 
