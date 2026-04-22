@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (2 weeks ago)
+- [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (3 weeks ago)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (3 weeks ago)
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) - Play Tetris in your terminal. (1 month ago)
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience. (1 month ago)
@@ -30,15 +30,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (6 days ago)
+- [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (1 week ago)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (2 weeks ago)
-- [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (4 weeks ago)
+- [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 month ago)
 - [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 - [feat: move to opencode](https://github.com/Broderick-Westrope/claude-essentials/pull/3) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 month ago)
 
 ## ⭐ Recent stars
 
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (6 days ago)
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 week ago)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 week ago)
 - [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (2 weeks ago)
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (2 weeks ago)
