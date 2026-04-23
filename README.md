@@ -25,7 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 3 weeks ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v2.1.0](https://github.com/charmbracelet/bubbles/releases/tag/v2.1.0), 4 weeks ago) - TUI components for Bubble Tea 🫧
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
@@ -42,7 +42,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 week ago)
 - [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (2 weeks ago)
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (2 weeks ago)
-- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (2 weeks ago)
+- [Ido-Levi/claude-code-tamagotchi](https://github.com/Ido-Levi/claude-code-tamagotchi) - Real-time behavioral enforcement for Claude Code. Monitors AI actions, detects violations, and interrupts misbehavior. Also has a cute pet. (3 weeks ago)
 
 ## 💬 Feedback
 
