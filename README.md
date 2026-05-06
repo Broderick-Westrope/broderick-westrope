@@ -30,7 +30,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (2 weeks ago)
+- [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (3 weeks ago)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (1 month ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 month ago)
 - [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
@@ -39,7 +39,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## ⭐ Recent stars
 
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (1 week ago)
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (2 weeks ago)
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (3 weeks ago)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (3 weeks ago)
 - [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (1 month ago)
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (1 month ago)
