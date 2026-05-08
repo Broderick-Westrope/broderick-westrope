@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (today)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (today)
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (1 week ago)
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (3 weeks ago)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (3 weeks ago)
-- [zhaleff/BlackNode](https://github.com/zhaleff/BlackNode) - // ------ Your home in the terminal. Simple, clean, yours.  (1 month ago)
-- [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant (1 month ago)
 
 ## 💬 Feedback
 
