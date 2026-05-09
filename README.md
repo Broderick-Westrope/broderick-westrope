@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (today)
 - [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 day ago)
 - [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (3 weeks ago)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (1 month ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 month ago)
-- [chore: leaderboard stuff; linting upgrade](https://github.com/Broderick-Westrope/tetrigo/pull/52) on [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) (1 month ago)
 
 ## ⭐ Recent stars
 
