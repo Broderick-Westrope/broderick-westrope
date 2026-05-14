@@ -30,16 +30,16 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (4 days ago)
-- [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (5 days ago)
+- [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (5 days ago)
+- [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (6 days ago)
 - [add OpenCode provider](https://github.com/getagentseal/codeburn/pull/30) on [getagentseal/codeburn](https://github.com/getagentseal/codeburn) (4 weeks ago)
 - [feat: reduce token waste with prompt caching, deferred tools, and built-in OAuth](https://github.com/Broderick-Westrope/brocode/pull/1) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (1 month ago)
 - [feat: add scaffold-tests &amp; onboarding-systems](https://github.com/Broderick-Westrope/claude-essentials/pull/4) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 month ago)
 
 ## ⭐ Recent stars
 
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (5 days ago)
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (5 days ago)
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (6 days ago)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (6 days ago)
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (2 weeks ago)
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (4 weeks ago)
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 month ago)
