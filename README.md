@@ -30,19 +30,19 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/crush/pull/3) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [custom styling](https://github.com/Broderick-Westrope/crush/pull/2) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [Add Anthropic OAuth](https://github.com/Broderick-Westrope/crush/pull/1) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (5 days ago)
-- [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (6 days ago)
+- [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/crush/pull/3) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
+- [custom styling](https://github.com/Broderick-Westrope/crush/pull/2) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
+- [Add Anthropic OAuth](https://github.com/Broderick-Westrope/crush/pull/1) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
+- [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (6 days ago)
+- [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
 
 ## ⭐ Recent stars
 
-- [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (6 days ago)
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (6 days ago)
+- [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (1 week ago)
+- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 week ago)
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (2 weeks ago)
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (4 weeks ago)
+- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 month ago)
 
 ## 💬 Feedback
 
