@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [add multi-agent routing](https://github.com/Broderick-Westrope/crush/pull/4) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
 - [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/crush/pull/3) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
 - [custom styling](https://github.com/Broderick-Westrope/crush/pull/2) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
 - [Add Anthropic OAuth](https://github.com/Broderick-Westrope/crush/pull/1) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
 - [add conversation tree](https://github.com/Broderick-Westrope/brocode/pull/2) on [Broderick-Westrope/brocode](https://github.com/Broderick-Westrope/brocode) (6 days ago)
-- [add dual-model review](https://github.com/Broderick-Westrope/claude-essentials/pull/5) on [Broderick-Westrope/claude-essentials](https://github.com/Broderick-Westrope/claude-essentials) (1 week ago)
 
 ## ⭐ Recent stars
 
