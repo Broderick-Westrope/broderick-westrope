@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [rebranding to Anvil](https://github.com/Broderick-Westrope/anvil/pull/5) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [add multi-agent routing](https://github.com/Broderick-Westrope/anvil/pull/4) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 - [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/anvil/pull/3) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [custom styling](https://github.com/Broderick-Westrope/anvil/pull/2) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
