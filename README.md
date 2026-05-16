@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 weeks ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 month ago)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (1 month ago)
@@ -17,7 +17,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🌱 My latest projects
 
-- [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime.
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified.
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience.
@@ -30,15 +30,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/crush/pull/6) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [rebranding to Anvil](https://github.com/Broderick-Westrope/crush/pull/5) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (today)
-- [add multi-agent routing](https://github.com/Broderick-Westrope/crush/pull/4) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (1 day ago)
-- [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/crush/pull/3) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (2 days ago)
-- [custom styling](https://github.com/Broderick-Westrope/crush/pull/2) on [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (2 days ago)
+- [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [rebranding to Anvil](https://github.com/Broderick-Westrope/anvil/pull/5) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [add multi-agent routing](https://github.com/Broderick-Westrope/anvil/pull/4) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [fix: seed skill states directly at UI init](https://github.com/Broderick-Westrope/anvil/pull/3) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [custom styling](https://github.com/Broderick-Westrope/anvil/pull/2) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
-- [Broderick-Westrope/crush](https://github.com/Broderick-Westrope/crush) (2 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (1 week ago)
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 week ago)
 - [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (2 weeks ago)
