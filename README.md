@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (today)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (today)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (3 days ago)
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (1 week ago)
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 week ago)
-- [asteroid-belt/skulto](https://github.com/asteroid-belt/skulto) - Offline and security-first tool for syncing and managing agent skills (3 weeks ago)
-- [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents. (1 month ago)
 
 ## 💬 Feedback
 
