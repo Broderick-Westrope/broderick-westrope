@@ -17,11 +17,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI.
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime.
 - [Broderick-Westrope/rev](https://github.com/Broderick-Westrope/rev) - A tool for managing PR reviews without being notified.
 - [Broderick-Westrope/prompt-flow](https://github.com/Broderick-Westrope/prompt-flow) - Build cloud-agnostic AI workflows without sacrificing dev experience.
-- [Broderick-Westrope/react-todo-list](https://github.com/Broderick-Westrope/react-todo-list) - A simple React todo list.
 
 ## 🚀 Latest releases I've contributed to
 
@@ -29,11 +29,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (today)
 - [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 day ago)
 - [add subagent drill-in UI](https://github.com/Broderick-Westrope/anvil/pull/8) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [rebranding to Anvil](https://github.com/Broderick-Westrope/anvil/pull/5) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
