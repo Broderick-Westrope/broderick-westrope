@@ -25,6 +25,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), today) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
