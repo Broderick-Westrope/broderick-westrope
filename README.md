@@ -9,8 +9,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (today)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (today)
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 day ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (1 day ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 weeks ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 month ago)
 - [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime. (1 month ago)
@@ -25,22 +25,22 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 1 day ago) - An opinionated fork of satococoa/wtp.
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 2 days ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (1 day ago)
-- [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (2 days ago)
-- [add subagent drill-in UI](https://github.com/Broderick-Westrope/anvil/pull/8) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
-- [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
-- [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (2 days ago)
+- [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (3 days ago)
+- [add subagent drill-in UI](https://github.com/Broderick-Westrope/anvil/pull/8) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
+- [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
+- [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
 
 ## ⭐ Recent stars
 
-- [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (2 days ago)
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (2 days ago)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (5 days ago)
+- [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (3 days ago)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (3 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (6 days ago)
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (1 week ago)
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (1 week ago)
 
