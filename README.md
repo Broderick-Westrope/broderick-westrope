@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [add plugins, commands, skills, etc](https://github.com/Broderick-Westrope/anvil/pull/11) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (5 days ago)
 - [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (6 days ago)
 - [add subagent drill-in UI](https://github.com/Broderick-Westrope/anvil/pull/8) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [Use Anthropic for VCRs](https://github.com/Broderick-Westrope/anvil/pull/6) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
 ## ⭐ Recent stars
 
