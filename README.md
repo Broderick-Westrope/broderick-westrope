@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [add session trees](https://github.com/Broderick-Westrope/anvil/pull/12) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [add plugins, commands, skills, etc](https://github.com/Broderick-Westrope/anvil/pull/11) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 - [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (6 days ago)
 - [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
-- [add subagent drill-in UI](https://github.com/Broderick-Westrope/anvil/pull/8) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [remove other install methods](https://github.com/Broderick-Westrope/anvil/pull/7) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
 ## ⭐ Recent stars
 
