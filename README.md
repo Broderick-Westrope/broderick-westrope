@@ -9,10 +9,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (today)
-- [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (1 day ago)
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (5 days ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (3 weeks ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (1 day ago)
+- [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (2 days ago)
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (6 days ago)
+- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 weeks ago)
 - [Broderick-Westrope/flower](https://github.com/Broderick-Westrope/flower) - A CLI for using the flowtime technique. (1 month ago)
 
 ## 🌱 My latest projects
@@ -25,15 +25,15 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 6 days ago) - An opinionated fork of satococoa/wtp.
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 1 week ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [add session trees](https://github.com/Broderick-Westrope/anvil/pull/12) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [add plugins, commands, skills, etc](https://github.com/Broderick-Westrope/anvil/pull/11) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (6 days ago)
+- [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [add session trees](https://github.com/Broderick-Westrope/anvil/pull/12) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [add plugins, commands, skills, etc](https://github.com/Broderick-Westrope/anvil/pull/11) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Add v3 design spec: centralized worktrees with PR/CI status and archive](https://github.com/Broderick-Westrope/wtp/pull/1) on [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) (1 week ago)
 - [fix(chat): restore selection when no selectable item found during shift&#43;up/down navigation](https://github.com/charmbracelet/crush/pull/2937) on [charmbracelet/crush](https://github.com/charmbracelet/crush) (1 week ago)
 
 ## ⭐ Recent stars
