@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (2 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (today)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (3 days ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 week ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (4 weeks ago)
@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [cschleiden/go-workflows](https://github.com/cschleiden/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (today)
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (1 week ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (1 week ago)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - My opinionated agent harness TUI. (1 week ago)
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (2 weeks ago)
-- [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search   (2 weeks ago)
 
 ## 💬 Feedback
 
