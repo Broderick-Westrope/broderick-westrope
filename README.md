@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
 - [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
 - [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [add session trees](https://github.com/Broderick-Westrope/anvil/pull/12) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
 ## ⭐ Recent stars
 
