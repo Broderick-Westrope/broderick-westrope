@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (4 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (5 days ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 week ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (2 weeks ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
@@ -25,20 +25,20 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 2 weeks ago) - An opinionated fork of satococoa/wtp.
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 3 weeks ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 1 year ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
+- [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (6 days ago)
 - [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
+- [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 weeks ago)
 - [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 weeks ago)
 
 ## ⭐ Recent stars
 
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 day ago)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2 days ago)
 - [cschleiden/go-workflows](https://github.com/cschleiden/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (1 week ago)
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (3 weeks ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (3 weeks ago)
