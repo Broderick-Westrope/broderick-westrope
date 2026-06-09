@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An agentic harness that runs your coding agents from idea to merged PR. Nine inspectable stages, markdown artefacts at every  step, drop in by hand whenever you want. Claude / Codex / Pi. (today)
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (today)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (3 days ago)
 - [cschleiden/go-workflows](https://github.com/cschleiden/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (2 weeks ago)
 - [floatpane/matcha](https://github.com/floatpane/matcha) - A beautiful and functional email client for your terminal, built with Go and the charming Bubble Tea TUI library. Never leave your command line to check your inbox or send an email again! (3 weeks ago)
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI / TUI Logo Designer &#43; ANSI Font Library with Gradients, Shadows, and Multi-Format Export (3 weeks ago)
-- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (1 month ago)
 
 ## 💬 Feedback
 
