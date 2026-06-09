@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (6 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 week ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (2 weeks ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
@@ -30,11 +30,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [add MCP lazy loading](https://github.com/Broderick-Westrope/anvil/pull/22) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 weeks ago)
-- [add builtin commands](https://github.com/Broderick-Westrope/anvil/pull/13) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 weeks ago)
 
 ## ⭐ Recent stars
 
