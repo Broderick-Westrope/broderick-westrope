@@ -38,7 +38,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An agentic harness that runs your coding agents from idea to merged PR. Nine inspectable stages, markdown artefacts at every  step, drop in by hand whenever you want. Claude / Codex / Pi. (2 weeks ago)
+- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (2 weeks ago)
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (2 weeks ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (2 weeks ago)
 - [cschleiden/go-workflows](https://github.com/cschleiden/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (4 weeks ago)
