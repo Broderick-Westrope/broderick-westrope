@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (4 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (5 days ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 week ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (1 month ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (1 month ago)
@@ -34,7 +34,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 weeks ago)
 - [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 weeks ago)
 - [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 weeks ago)
-- [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 weeks ago)
+- [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
 
 ## ⭐ Recent stars
 
