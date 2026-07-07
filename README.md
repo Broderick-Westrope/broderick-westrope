@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (2 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (3 days ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (3 weeks ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (1 month ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 months ago)
@@ -30,7 +30,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [add MCP lazy loading](https://github.com/Broderick-Westrope/anvil/pull/22) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 weeks ago)
+- [add MCP lazy loading](https://github.com/Broderick-Westrope/anvil/pull/22) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 weeks ago)
 - [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
 - [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
 - [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
@@ -38,10 +38,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (2 days ago)
-- [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (2 days ago)
-- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (3 weeks ago)
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (3 weeks ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (3 days ago)
+- [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (3 days ago)
+- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (4 weeks ago)
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (4 weeks ago)
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 month ago)
 
 ## 💬 Feedback
