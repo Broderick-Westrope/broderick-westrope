@@ -38,11 +38,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
+- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (today)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 week ago)
 - [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (1 week ago)
 - [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (1 month ago)
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (1 month ago)
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source &amp; free — Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (1 month ago)
 
 ## 💬 Feedback
 
