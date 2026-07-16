@@ -38,7 +38,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (3 days ago)
+- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (4 days ago)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 week ago)
 - [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (1 week ago)
 - [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (1 month ago)
