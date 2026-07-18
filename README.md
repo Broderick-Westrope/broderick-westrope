@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 week ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (2 weeks ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 month ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (1 month ago)
 - [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 months ago)
@@ -38,9 +38,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (5 days ago)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 week ago)
-- [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (1 week ago)
+- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (6 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (2 weeks ago)
+- [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (2 weeks ago)
 - [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (1 month ago)
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (1 month ago)
 
