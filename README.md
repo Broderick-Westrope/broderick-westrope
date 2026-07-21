@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know. (2 days ago)
+- [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know. (3 days ago)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (2 weeks ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 month ago)
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (1 month ago)
