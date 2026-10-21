@@ -9,40 +9,41 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know. (1 week ago)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (3 weeks ago)
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 month ago)
-- [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements. (2 months ago)
-- [Broderick-Westrope/charmutils](https://github.com/Broderick-Westrope/charmutils) - Go utilities for working with the github.com/charmbracelet ecosystem. (2 months ago)
+- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (today)
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (today)
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (today)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
+- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 
 ## 🌱 My latest projects
 
+- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents.
 - [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know.
 - [Broderick-Westrope/mcp-interactive-terminal](https://github.com/Broderick-Westrope/mcp-interactive-terminal) - A fork of amol21p/mcp-interactive-terminal with some improvements.
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp.
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI
-- [Broderick-Westrope/solus](https://github.com/Broderick-Westrope/solus) - Desktop app to aggregate GitHub, Slack, and Gmail notifications, plus calendar and flowtime.
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.0.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.0.0), 2 months ago) - An opinionated fork of satococoa/wtp.
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.9.0](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.9.0), today) - Local code search across all your GitHub repos, for you and your agents.
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.3.1](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.3.1), 1 week ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 years ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [add MCP lazy loading](https://github.com/Broderick-Westrope/anvil/pull/22) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
-- [move to using a global database](https://github.com/Broderick-Westrope/anvil/pull/20) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
-- [use compact tool summary &amp; add drill-in](https://github.com/Broderick-Westrope/anvil/pull/18) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
-- [add session navigation UI](https://github.com/Broderick-Westrope/anvil/pull/17) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 month ago)
-- [add tree branching](https://github.com/Broderick-Westrope/anvil/pull/14) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 months ago)
+- [Require Go 1.27.3](https://github.com/Broderick-Westrope/anvil/pull/129) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Draw tool result images in the tool drill-in](https://github.com/Broderick-Westrope/anvil/pull/128) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Share one MCP server between every muninn mcp session](https://github.com/Broderick-Westrope/muninn/pull/2) on [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) (today)
+- [Require pele-go v0.1.0](https://github.com/Broderick-Westrope/anvil/pull/127) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [Name Brodie Westrope in the licence and say where to check out upstream](https://github.com/Broderick-Westrope/pele-go/pull/1) on [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) (1 day ago)
 
 ## ⭐ Recent stars
 
-- [p-stream/p-stream](https://github.com/p-stream/p-stream) - P-Stream&#39;s source code (Allegedly) (1 week ago)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (3 weeks ago)
-- [getpudding/pudding-app](https://github.com/getpudding/pudding-app) (3 weeks ago)
-- [ivankuznetsov/hive](https://github.com/ivankuznetsov/hive) - An open-source agent workflow engine &amp; meta-harness: orchestrates Claude, Codex, and Pi to run multi-step work as a folder-as-agent pipeline. Its flagship coding workflow turns a rough idea into a merge-ready PR; ships content too, and runs the workflows you author. (1 month ago)
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (1 month ago)
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app! (1 week ago)
+- [KEINOS/go-nn](https://github.com/KEINOS/go-nn) - Model-independent neural network primitives for Go, with scalar and tensor autograd, reusable layers, Adam optimization, and optional WGPU acceleration. (1 week ago)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (1 week ago)
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (2 weeks ago)
+- [wfzyx/von](https://github.com/wfzyx/von) - The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev. (3 weeks ago)
 
 ## 💬 Feedback
 
