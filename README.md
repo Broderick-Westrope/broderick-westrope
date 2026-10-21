@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Copy Mermaid diagrams as images with Y](https://github.com/Broderick-Westrope/anvil/pull/130) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Require Go 1.27.3](https://github.com/Broderick-Westrope/anvil/pull/129) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Draw tool result images in the tool drill-in](https://github.com/Broderick-Westrope/anvil/pull/128) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Share one MCP server between every muninn mcp session](https://github.com/Broderick-Westrope/muninn/pull/2) on [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) (today)
 - [Require pele-go v0.1.0](https://github.com/Broderick-Westrope/anvil/pull/127) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Name Brodie Westrope in the licence and say where to check out upstream](https://github.com/Broderick-Westrope/pele-go/pull/1) on [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) (1 day ago)
 
 ## ⭐ Recent stars
 
