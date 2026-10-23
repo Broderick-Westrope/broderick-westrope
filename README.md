@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (today)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 day ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (1 day ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (1 day ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (2 days ago)
-- [Broderick-Westrope/dotfiles](https://github.com/Broderick-Westrope/dotfiles) - Automated macOS system setup with Chezmoi &amp; Ansible. (1 week ago)
 
 ## 🌱 My latest projects
 
@@ -25,17 +25,17 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.4.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.4.0), today) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.0](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.0), 2 days ago) - Local code search across all your GitHub repos, for you and your agents.
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.3.1](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.3.1), 2 weeks ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 years ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
+- [Offer a summary of the branch you left when you rewind](https://github.com/Broderick-Westrope/anvil/pull/134) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Copy tool images with Y](https://github.com/Broderick-Westrope/anvil/pull/133) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Trim the README to a pitch and move reference docs into docs/](https://github.com/Broderick-Westrope/anvil/pull/131) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Copy Mermaid diagrams as images with Y](https://github.com/Broderick-Westrope/anvil/pull/130) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Require Go 1.27.3](https://github.com/Broderick-Westrope/anvil/pull/129) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Draw tool result images in the tool drill-in](https://github.com/Broderick-Westrope/anvil/pull/128) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
