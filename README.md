@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Keep turns going through tool errors and transient failures](https://github.com/Broderick-Westrope/anvil/pull/147) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Show workflow runs as a node you can drill into, and fork builders from your session](https://github.com/Broderick-Westrope/anvil/pull/146) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Remove lazy loading through enable_mcp in favour of the MCP tool catalogue](https://github.com/Broderick-Westrope/anvil/pull/145) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Keep CI watchers alive through network errors](https://github.com/Broderick-Westrope/anvil/pull/144) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Offer a summary when a rewind would drop only an earlier branch summary](https://github.com/Broderick-Westrope/anvil/pull/143) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [Accept the MCP tool catalogue and teach the skills about routes](https://github.com/Broderick-Westrope/anvil/pull/142) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 
 ## ⭐ Recent stars
 
