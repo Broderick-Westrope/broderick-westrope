@@ -9,9 +9,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (1 day ago)
+- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (today)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 day ago)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 day ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (2 days ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 days ago)
 
@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Offer a summary when a rewind would drop only an earlier branch summary](https://github.com/Broderick-Westrope/anvil/pull/143) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Accept the MCP tool catalogue and teach the skills about routes](https://github.com/Broderick-Westrope/anvil/pull/142) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Reach large MCP servers through a tool catalogue instead of the tool list](https://github.com/Broderick-Westrope/anvil/pull/141) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Document branch summaries and add an evaluation set for the summarizer](https://github.com/Broderick-Westrope/anvil/pull/140) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 - [Open a tool drill-in&#39;s file with o, in $EDITOR with e, or in the file manager with r](https://github.com/Broderick-Westrope/anvil/pull/139) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Say pele-go&#39;s anvil-memory script is gone in ADR 0006](https://github.com/Broderick-Westrope/anvil/pull/138) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Use pele-go&#39;s raster module for Mermaid layout and rasterizing](https://github.com/Broderick-Westrope/anvil/pull/136) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Drop bouncer mode from the compact header](https://github.com/Broderick-Westrope/anvil/pull/135) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 
 ## ⭐ Recent stars
 
