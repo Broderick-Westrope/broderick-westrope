@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Catch Mermaid diagrams that don&#39;t render](https://github.com/Broderick-Westrope/anvil/pull/152) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Let write overwrite empty files without reading them first](https://github.com/Broderick-Westrope/anvil/pull/150) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Render branch summaries like any other subagent node](https://github.com/Broderick-Westrope/anvil/pull/149) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Make web search and fetch fail less, and say why when they do](https://github.com/Broderick-Westrope/anvil/pull/148) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Keep turns going through tool errors and transient failures](https://github.com/Broderick-Westrope/anvil/pull/147) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Show workflow runs as a node you can drill into, and fork builders from your session](https://github.com/Broderick-Westrope/anvil/pull/146) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
