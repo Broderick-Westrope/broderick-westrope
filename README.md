@@ -9,8 +9,8 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (today)
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (1 day ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (3 days ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (4 days ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (4 days ago)
