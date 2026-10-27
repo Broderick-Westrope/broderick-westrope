@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Wrap tool drill-in text so all of it can be read](https://github.com/Broderick-Westrope/anvil/pull/154) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Double-click selects whole URLs, UUIDs and issue IDs](https://github.com/Broderick-Westrope/anvil/pull/153) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Catch Mermaid diagrams that don&#39;t render](https://github.com/Broderick-Westrope/anvil/pull/152) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 - [Let write overwrite empty files without reading them first](https://github.com/Broderick-Westrope/anvil/pull/150) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 - [Render branch summaries like any other subagent node](https://github.com/Broderick-Westrope/anvil/pull/149) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
-- [Make web search and fetch fail less, and say why when they do](https://github.com/Broderick-Westrope/anvil/pull/148) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
-- [Keep turns going through tool errors and transient failures](https://github.com/Broderick-Westrope/anvil/pull/147) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 
 ## ⭐ Recent stars
 
