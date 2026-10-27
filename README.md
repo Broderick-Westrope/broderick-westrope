@@ -10,10 +10,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
-- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (today)
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (3 days ago)
-- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (4 days ago)
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (4 days ago)
+- [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (1 day ago)
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (4 days ago)
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (5 days ago)
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (5 days ago)
 
 ## 🌱 My latest projects
 
@@ -25,17 +25,17 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.4.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.4.0), 3 days ago) - An opinionated fork of satococoa/wtp.
-- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.0](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.0), 5 days ago) - Local code search across all your GitHub repos, for you and your agents.
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.4.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.4.0), 4 days ago) - An opinionated fork of satococoa/wtp.
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.0](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.0), 6 days ago) - Local code search across all your GitHub repos, for you and your agents.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 years ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [Catch Mermaid diagrams that don&#39;t render](https://github.com/Broderick-Westrope/anvil/pull/152) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [Let write overwrite empty files without reading them first](https://github.com/Broderick-Westrope/anvil/pull/150) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Render branch summaries like any other subagent node](https://github.com/Broderick-Westrope/anvil/pull/149) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Make web search and fetch fail less, and say why when they do](https://github.com/Broderick-Westrope/anvil/pull/148) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Keep turns going through tool errors and transient failures](https://github.com/Broderick-Westrope/anvil/pull/147) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Catch Mermaid diagrams that don&#39;t render](https://github.com/Broderick-Westrope/anvil/pull/152) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [Let write overwrite empty files without reading them first](https://github.com/Broderick-Westrope/anvil/pull/150) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Render branch summaries like any other subagent node](https://github.com/Broderick-Westrope/anvil/pull/149) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Make web search and fetch fail less, and say why when they do](https://github.com/Broderick-Westrope/anvil/pull/148) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Keep turns going through tool errors and transient failures](https://github.com/Broderick-Westrope/anvil/pull/147) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 
 ## ⭐ Recent stars
 
