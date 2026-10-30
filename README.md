@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [docs: record herdr-core and desktop app research and ideas for Anvil](https://github.com/Broderick-Westrope/anvil/pull/159) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Stop timing out while a tool call&#39;s input streams](https://github.com/Broderick-Westrope/anvil/pull/158) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Bump golang.org/x/net to v0.62.0](https://github.com/Broderick-Westrope/anvil/pull/156) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Load skills whose metadata holds lists or maps](https://github.com/Broderick-Westrope/anvil/pull/155) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Wrap tool drill-in text so all of it can be read](https://github.com/Broderick-Westrope/anvil/pull/154) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
-- [Double-click selects whole URLs, UUIDs and issue IDs](https://github.com/Broderick-Westrope/anvil/pull/153) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 
 ## ⭐ Recent stars
 
