@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (3 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (3 days ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (4 days ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (1 week ago)
@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Tell agents to link PRs and tickets by full URL](https://github.com/Broderick-Westrope/anvil/pull/161) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [docs: record herdr-core and desktop app research and ideas for Anvil](https://github.com/Broderick-Westrope/anvil/pull/159) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 - [Stop timing out while a tool call&#39;s input streams](https://github.com/Broderick-Westrope/anvil/pull/158) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 - [Bump golang.org/x/net to v0.62.0](https://github.com/Broderick-Westrope/anvil/pull/156) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
 - [Load skills whose metadata holds lists or maps](https://github.com/Broderick-Westrope/anvil/pull/155) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
-- [Wrap tool drill-in text so all of it can be read](https://github.com/Broderick-Westrope/anvil/pull/154) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (6 days ago)
 
 ## ⭐ Recent stars
 
