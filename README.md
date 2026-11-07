@@ -9,7 +9,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (4 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (5 days ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (1 week ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (1 week ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (1 week ago)
@@ -31,7 +31,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [Tell agents to link PRs and tickets by full URL](https://github.com/Broderick-Westrope/anvil/pull/161) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
+- [Tell agents to link PRs and tickets by full URL](https://github.com/Broderick-Westrope/anvil/pull/161) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
 - [docs: record herdr-core and desktop app research and ideas for Anvil](https://github.com/Broderick-Westrope/anvil/pull/159) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [Stop timing out while a tool call&#39;s input streams](https://github.com/Broderick-Westrope/anvil/pull/158) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [Bump golang.org/x/net to v0.62.0](https://github.com/Broderick-Westrope/anvil/pull/156) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
@@ -39,9 +39,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## ⭐ Recent stars
 
-- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app! (3 weeks ago)
-- [KEINOS/go-nn](https://github.com/KEINOS/go-nn) - Model-independent neural network primitives for Go, with scalar and tensor autograd, reusable layers, Adam optimization, and optional WGPU acceleration. (3 weeks ago)
-- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (3 weeks ago)
+- [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app! (4 weeks ago)
+- [KEINOS/go-nn](https://github.com/KEINOS/go-nn) - Model-independent neural network primitives for Go, with scalar and tensor autograd, reusable layers, Adam optimization, and optional WGPU acceleration. (4 weeks ago)
+- [NotProtonNot/NotProton](https://github.com/NotProtonNot/NotProton) - Steam Play for macOS (4 weeks ago)
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal (1 month ago)
 - [wfzyx/von](https://github.com/wfzyx/von) - The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev. (1 month ago)
 
