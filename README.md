@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Stop UI render and animation tests flaking under CPU load](https://github.com/Broderick-Westrope/anvil/pull/169) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [[experiment] exp/wtp-v3.4.0 — do not merge](https://github.com/Broderick-Westrope/anvil/pull/167) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [[experiment] exp/go-only — do not merge](https://github.com/Broderick-Westrope/anvil/pull/166) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [[experiment] exp/wtp-only — do not merge](https://github.com/Broderick-Westrope/anvil/pull/165) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Bump wtp to v3.5.0 and Go to 1.27.4](https://github.com/Broderick-Westrope/anvil/pull/164) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [Teach agents to set up stacked PRs with gh-stack](https://github.com/Broderick-Westrope/anvil/pull/163) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
 
 ## ⭐ Recent stars
 
