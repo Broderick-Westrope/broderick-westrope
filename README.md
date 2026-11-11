@@ -10,10 +10,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🔭 I’m currently working on...
 
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (today)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (1 week ago)
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (1 week ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (2 weeks ago)
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (2 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -25,17 +25,17 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🚀 Latest releases I've contributed to
 
+- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.5.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.5.0), today) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.1](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.1), 1 week ago) - Local code search across all your GitHub repos, for you and your agents.
-- [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.4.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.4.0), 2 weeks ago) - An opinionated fork of satococoa/wtp.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 years ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
+- [[experiment] exp/wtp-v3.4.0 — do not merge](https://github.com/Broderick-Westrope/anvil/pull/167) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [[experiment] exp/go-only — do not merge](https://github.com/Broderick-Westrope/anvil/pull/166) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [[experiment] exp/wtp-only — do not merge](https://github.com/Broderick-Westrope/anvil/pull/165) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Bump wtp to v3.5.0 and Go to 1.27.4](https://github.com/Broderick-Westrope/anvil/pull/164) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Teach agents to set up stacked PRs with gh-stack](https://github.com/Broderick-Westrope/anvil/pull/163) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Tell agents to link PRs and tickets by full URL](https://github.com/Broderick-Westrope/anvil/pull/161) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [docs: record herdr-core and desktop app research and ideas for Anvil](https://github.com/Broderick-Westrope/anvil/pull/159) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [Stop timing out while a tool call&#39;s input streams](https://github.com/Broderick-Westrope/anvil/pull/158) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [Bump golang.org/x/net to v0.62.0](https://github.com/Broderick-Westrope/anvil/pull/156) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 weeks ago)
 
 ## ⭐ Recent stars
 
