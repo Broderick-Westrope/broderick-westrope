@@ -9,10 +9,10 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (4 days ago)
+- [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (5 days ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (1 week ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (2 weeks ago)
-- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (2 weeks ago)
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (3 weeks ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (3 weeks ago)
 
 ## 🌱 My latest projects
@@ -31,9 +31,9 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [Mask vendor tokens that follow an escaped newline](https://github.com/Broderick-Westrope/anvil/pull/172) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
-- [Mask credentials in everything Anvil sends to a model](https://github.com/Broderick-Westrope/anvil/pull/171) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (4 days ago)
-- [Generate session titles as short keyword labels](https://github.com/Broderick-Westrope/anvil/pull/170) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (6 days ago)
+- [Mask vendor tokens that follow an escaped newline](https://github.com/Broderick-Westrope/anvil/pull/172) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
+- [Mask credentials in everything Anvil sends to a model](https://github.com/Broderick-Westrope/anvil/pull/171) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (5 days ago)
+- [Generate session titles as short keyword labels](https://github.com/Broderick-Westrope/anvil/pull/170) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [Stop UI render and animation tests flaking under CPU load](https://github.com/Broderick-Westrope/anvil/pull/169) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [[experiment] exp/wtp-v3.4.0 — do not merge](https://github.com/Broderick-Westrope/anvil/pull/167) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
