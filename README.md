@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Open the arguments dialog when a typed command has named arguments](https://github.com/Broderick-Westrope/anvil/pull/175) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Let session recover --clear dismiss only the given sessions](https://github.com/Broderick-Westrope/anvil/pull/174) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Mask vendor tokens that follow an escaped newline](https://github.com/Broderick-Westrope/anvil/pull/172) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [Mask credentials in everything Anvil sends to a model](https://github.com/Broderick-Westrope/anvil/pull/171) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 - [Generate session titles as short keyword labels](https://github.com/Broderick-Westrope/anvil/pull/170) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [Stop UI render and animation tests flaking under CPU load](https://github.com/Broderick-Westrope/anvil/pull/169) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
-- [[experiment] exp/wtp-v3.4.0 — do not merge](https://github.com/Broderick-Westrope/anvil/pull/167) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
 ## ⭐ Recent stars
 
