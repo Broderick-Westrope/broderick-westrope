@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
+- [Clear the chat selection when branching focuses the editor](https://github.com/Broderick-Westrope/anvil/pull/181) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Bump otel to v1.47.0 for GO-2026-6974](https://github.com/Broderick-Westrope/anvil/pull/179) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Copy double-clicked links and issue IDs without their markdown](https://github.com/Broderick-Westrope/anvil/pull/178) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
 - [Open the arguments dialog when a typed command has named arguments](https://github.com/Broderick-Westrope/anvil/pull/175) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 - [Let session recover --clear dismiss only the given sessions](https://github.com/Broderick-Westrope/anvil/pull/174) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Mask vendor tokens that follow an escaped newline](https://github.com/Broderick-Westrope/anvil/pull/172) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 week ago)
 
 ## ⭐ Recent stars
 
