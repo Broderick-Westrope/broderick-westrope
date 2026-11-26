@@ -12,7 +12,7 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (2 weeks ago)
 - [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (3 weeks ago)
-- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (3 weeks ago)
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) - Local code search across all your GitHub repos, for you and your agents. (4 weeks ago)
 - [Broderick-Westrope/pele-go](https://github.com/Broderick-Westrope/pele-go) - Go port of the Pele Mermaid renderer, byte-identical to upstream (1 month ago)
 
 ## 🌱 My latest projects
@@ -31,11 +31,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔨 Latest Pull Requests I published
 
-- [Fast-forward the root worktree before branching from main](https://github.com/Broderick-Westrope/anvil/pull/182) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Clear the chat selection when branching focuses the editor](https://github.com/Broderick-Westrope/anvil/pull/181) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Bump otel to v1.47.0 for GO-2026-6974](https://github.com/Broderick-Westrope/anvil/pull/179) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Copy double-clicked links and issue IDs without their markdown](https://github.com/Broderick-Westrope/anvil/pull/178) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
-- [Open the arguments dialog when a typed command has named arguments](https://github.com/Broderick-Westrope/anvil/pull/175) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Tighten orchestrator guidance on legwork, lean designs and references](https://github.com/Broderick-Westrope/anvil/pull/183) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
+- [Fast-forward the root worktree before branching from main](https://github.com/Broderick-Westrope/anvil/pull/182) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Clear the chat selection when branching focuses the editor](https://github.com/Broderick-Westrope/anvil/pull/181) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Bump otel to v1.47.0 for GO-2026-6974](https://github.com/Broderick-Westrope/anvil/pull/179) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Copy double-clicked links and issue IDs without their markdown](https://github.com/Broderick-Westrope/anvil/pull/178) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
 
 ## ⭐ Recent stars
 
