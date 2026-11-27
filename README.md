@@ -9,11 +9,11 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 
 ## 🔭 I’m currently working on...
 
-- [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know. (today)
 - [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) - ⚒️ Opinionated agent harness TUI (today)
-- [Broderick-Westrope/prpost](https://github.com/Broderick-Westrope/prpost) - Post PRs to Slack from a TUI via a Zapier hook, and keep their state emoji current (today)
+- [Broderick-Westrope/revu](https://github.com/Broderick-Westrope/revu) - Use AI for code reviews in a way that keeps you in-the-know. (today)
+- [Broderick-Westrope/prpost](https://github.com/Broderick-Westrope/prpost) - Post PRs to Slack from a TUI via a Zapier hook, and keep their state emoji current (1 day ago)
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) - An opinionated fork of satococoa/wtp. (2 weeks ago)
-- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (3 weeks ago)
+- [Broderick-Westrope/homebrew-tap](https://github.com/Broderick-Westrope/homebrew-tap) (4 weeks ago)
 
 ## 🌱 My latest projects
 
@@ -26,16 +26,16 @@ For an up-to-date list of my top skills, please see [my CV](./CV/cv.pdf). This i
 ## 🚀 Latest releases I've contributed to
 
 - [Broderick-Westrope/wtp](https://github.com/Broderick-Westrope/wtp) ([v3.5.0](https://github.com/Broderick-Westrope/wtp/releases/tag/v3.5.0), 2 weeks ago) - An opinionated fork of satococoa/wtp.
-- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.1](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.1), 3 weeks ago) - Local code search across all your GitHub repos, for you and your agents.
+- [Broderick-Westrope/muninn](https://github.com/Broderick-Westrope/muninn) ([v0.10.1](https://github.com/Broderick-Westrope/muninn/releases/tag/v0.10.1), 4 weeks ago) - Local code search across all your GitHub repos, for you and your agents.
 - [Broderick-Westrope/tetrigo](https://github.com/Broderick-Westrope/tetrigo) ([v0.2.0](https://github.com/Broderick-Westrope/tetrigo/releases/tag/v0.2.0), 2 years ago) - Play Tetris in your terminal.
 
 ## 🔨 Latest Pull Requests I published
 
-- [Give every stack layer its own worktree](https://github.com/Broderick-Westrope/anvil/pull/184) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [Tighten orchestrator guidance on legwork, lean designs and references](https://github.com/Broderick-Westrope/anvil/pull/183) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (today)
-- [Fast-forward the root worktree before branching from main](https://github.com/Broderick-Westrope/anvil/pull/182) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Clear the chat selection when branching focuses the editor](https://github.com/Broderick-Westrope/anvil/pull/181) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
-- [Bump otel to v1.47.0 for GO-2026-6974](https://github.com/Broderick-Westrope/anvil/pull/179) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (2 days ago)
+- [Give every stack layer its own worktree](https://github.com/Broderick-Westrope/anvil/pull/184) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [Tighten orchestrator guidance on legwork, lean designs and references](https://github.com/Broderick-Westrope/anvil/pull/183) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (1 day ago)
+- [Fast-forward the root worktree before branching from main](https://github.com/Broderick-Westrope/anvil/pull/182) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Clear the chat selection when branching focuses the editor](https://github.com/Broderick-Westrope/anvil/pull/181) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
+- [Bump otel to v1.47.0 for GO-2026-6974](https://github.com/Broderick-Westrope/anvil/pull/179) on [Broderick-Westrope/anvil](https://github.com/Broderick-Westrope/anvil) (3 days ago)
 
 ## ⭐ Recent stars
 
